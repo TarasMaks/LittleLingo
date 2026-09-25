@@ -1,0 +1,1589 @@
+[
+  {
+    "id": "grammar-a2-past-actions",
+    "level": "A2",
+    "topic": "animals",
+    "title": "What Was Happening in the Garden?",
+    "objective": "CEFR-inspired sample lesson: distinguish an action in progress from a completed event using past continuous and past simple.",
+    "words": [],
+    "grammarFocus": "Past continuous and past simple",
+    "activities": [
+      {
+        "id": "grammar-a2-past-actions-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "The drawing was already in progress when the squirrel appeared. Which sentence expresses this?",
+        "uk": "Прочитай ситуацію й вибери речення з правильною граматичною формою.",
+        "audio": "",
+        "answer": "I was drawing a tree when a squirrel ran across the path.",
+        "choices": [
+          "I drew a tree when a squirrel was running across the path.",
+          "I was drawing a tree when a squirrel ran across the path.",
+          "I am drawing a tree when a squirrel ran across the path."
+        ],
+        "hint": "Use past continuous for the action already in progress and past simple for the new event.",
+        "passage": "Yesterday, our class watched the school garden. At ten o'clock, I was drawing a tree. A squirrel suddenly ran across the path."
+      },
+      {
+        "id": "grammar-a2-past-actions-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Past continuous and past simple",
+        "prompt": "Complete with the past continuous of 'watch': We __ the birds when the bell rang.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "were watching",
+        "choices": [],
+        "hint": "With 'we', use 'were' followed by the -ing form.",
+        "answers": [
+          "were watching"
+        ]
+      },
+      {
+        "id": "grammar-a2-past-actions-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "Choose the correct repair of: 'Mia were looking at a butterfly when it flew away.'",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "Mia was looking at a butterfly when it flew away.",
+        "choices": [
+          "Mia was looking at a butterfly when it flew away.",
+          "Mia were looked at a butterfly when it flew away.",
+          "Mia was look at a butterfly when it flew away."
+        ],
+        "hint": "The singular subject 'Mia' needs 'was', followed by an -ing form.",
+        "passage": "Yesterday, our class watched the school garden. At ten o'clock, I was drawing a tree. A squirrel suddenly ran across the path."
+      },
+      {
+        "id": "grammar-a2-past-actions-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Describe a real or invented moment in a garden. Say what two people were doing, then describe one event that interrupted them. Use past continuous and past simple.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 20–40 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Keep your sentences simple and check each required verb or noun form.",
+        "minWords": 20,
+        "maxWords": 40,
+        "rubric": [
+          "Use past continuous correctly for at least two actions in progress.",
+          "Use past simple for a completed interrupting event.",
+          "Make the sequence clear with 'when' or 'while'."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-a2-comparisons",
+    "level": "A2",
+    "topic": "school",
+    "title": "Choosing a Place to Read",
+    "objective": "CEFR-inspired sample lesson: form comparatives and superlatives to compare familiar places.",
+    "words": [],
+    "grammarFocus": "Comparatives and superlatives",
+    "activities": [
+      {
+        "id": "grammar-a2-comparisons-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "Which sentence correctly compares the library with the hall?",
+        "uk": "Прочитай ситуацію й вибери речення з правильною граматичною формою.",
+        "audio": "",
+        "answer": "The library is quieter than the hall.",
+        "choices": [
+          "The library is more quietest than the hall.",
+          "The library is the quieter than the hall.",
+          "The library is quieter than the hall."
+        ],
+        "hint": "Use a comparative with 'than', without 'the'.",
+        "passage": "The hall is noisy. The classroom is quieter than the hall. The library is quieter than both, so it is the quietest of the three places."
+      },
+      {
+        "id": "grammar-a2-comparisons-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Comparatives and superlatives",
+        "prompt": "Complete with the comparative form of 'bright': This reading corner is __ than the old one.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "brighter",
+        "choices": [],
+        "hint": "For this short adjective, add -er.",
+        "answers": [
+          "brighter"
+        ]
+      },
+      {
+        "id": "grammar-a2-comparisons-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "Choose the correct repair of 'This is the most quietest room in the school.' Keep the meaning: it is quieter than every other room.",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "This is the quietest room in the school.",
+        "choices": [
+          "This is the quieter room in the school.",
+          "This is the quietest room in the school.",
+          "This is the most quieter room in the school."
+        ],
+        "hint": "Compare one room with all the others using a single superlative form.",
+        "passage": "The hall is noisy. The classroom is quieter than the hall. The library is quieter than both, so it is the quietest of the three places."
+      },
+      {
+        "id": "grammar-a2-comparisons-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Compare three real or invented places to read. Use at least two comparatives with 'than' and one superlative to say which place you would choose.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 20–40 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Keep your sentences simple and check each required verb or noun form.",
+        "minWords": 20,
+        "maxWords": 40,
+        "rubric": [
+          "Use at least two correctly formed comparatives with 'than'.",
+          "Use one superlative with 'the' to compare all three places.",
+          "Describe understandable differences and identify your choice."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-a2-quantifiers",
+    "level": "A2",
+    "topic": "food",
+    "title": "Enough for the Class Picnic",
+    "objective": "CEFR-inspired sample lesson: use countable and uncountable quantifiers in a simple food plan.",
+    "words": [],
+    "grammarFocus": "Much, many, a little and a few",
+    "activities": [
+      {
+        "id": "grammar-a2-quantifiers-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "You need to ask about the number of apples. Which question is correct?",
+        "uk": "Прочитай ситуацію й вибери речення з правильною граматичною формою.",
+        "audio": "",
+        "answer": "How many apples do we need?",
+        "choices": [
+          "How many apples do we need?",
+          "How much apples do we need?",
+          "How a few apples do we need?"
+        ],
+        "hint": "Use 'many' with a plural countable noun.",
+        "passage": "We are packing food for a class picnic. Apples are counted individually. Water and rice are uncountable in these sentences."
+      },
+      {
+        "id": "grammar-a2-quantifiers-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Much, many, a little and a few",
+        "prompt": "Complete with 'much' or 'many': We do not have __ water left.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "much",
+        "choices": [],
+        "hint": "'Water' is uncountable here.",
+        "answers": [
+          "much"
+        ]
+      },
+      {
+        "id": "grammar-a2-quantifiers-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "Choose the correct repair of: 'There is a few rice in the box.'",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "There is a little rice in the box.",
+        "choices": [
+          "There are a few rice in the box.",
+          "There is many rice in the box.",
+          "There is a little rice in the box."
+        ],
+        "hint": "Use 'a little' and a singular verb with uncountable 'rice'.",
+        "passage": "We are packing food for a class picnic. Apples are counted individually. Water and rice are uncountable in these sentences."
+      },
+      {
+        "id": "grammar-a2-quantifiers-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Describe food and drink for a class picnic. Use 'a few' with a countable food, 'a little' with an uncountable food or drink, and one sentence with 'not much' or 'not many'.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 20–40 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Keep your sentences simple and check each required verb or noun form.",
+        "minWords": 20,
+        "maxWords": 40,
+        "rubric": [
+          "Use 'a few' with a plural countable noun.",
+          "Use 'a little' with an uncountable noun.",
+          "Use 'not much' or 'not many' with a suitable noun and clear meaning."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-a2-going-to",
+    "level": "A2",
+    "topic": "school",
+    "title": "Our Plan for Friday",
+    "objective": "CEFR-inspired sample lesson: state intentions and ask about plans using be going to.",
+    "words": [],
+    "grammarFocus": "Plans with be going to",
+    "activities": [
+      {
+        "id": "grammar-a2-going-to-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "Which sentence correctly expresses Ben and Noor's plan using 'be going to'?",
+        "uk": "Прочитай ситуацію й вибери речення з правильною граматичною формою.",
+        "audio": "",
+        "answer": "Ben and Noor are going to move the tables.",
+        "choices": [
+          "Ben and Noor is going to move the tables.",
+          "Ben and Noor are going to move the tables.",
+          "Ben and Noor going to move the tables."
+        ],
+        "hint": "Two people need 'are', followed by 'going to' and the base verb.",
+        "passage": "The class has agreed to tidy the reading corner on Friday. Ava plans to make labels. Ben and Noor plan to move the small tables."
+      },
+      {
+        "id": "grammar-a2-going-to-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Plans with be going to",
+        "prompt": "Complete with the four-word 'be going to' form of 'plant': We __ flowers after school tomorrow.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "are going to plant",
+        "choices": [],
+        "hint": "Begin with the form of 'be' that agrees with 'we'.",
+        "answers": [
+          "are going to plant"
+        ]
+      },
+      {
+        "id": "grammar-a2-going-to-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "Choose the correctly formed question about Ava's plan.",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "Is Ava going to make the labels?",
+        "choices": [
+          "Is Ava going to make the labels?",
+          "Does Ava going to make the labels?",
+          "Is Ava going make the labels?"
+        ],
+        "hint": "For this question, move 'is' before the subject and keep 'going to'.",
+        "passage": "The class has agreed to tidy the reading corner on Friday. Ava plans to make labels. Ben and Noor plan to move the small tables."
+      },
+      {
+        "id": "grammar-a2-going-to-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Write about your plan for a school project. Include one affirmative sentence and one negative sentence with 'be going to', then ask one question using the same structure.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 20–40 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Keep your sentences simple and check each required verb or noun form.",
+        "minWords": 20,
+        "maxWords": 40,
+        "rubric": [
+          "Use 'be going to' correctly in an affirmative sentence.",
+          "Form a correct negative sentence with 'be going to'.",
+          "Form a clear question with 'be' before the subject."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-b1-perfect-and-past",
+    "level": "B1",
+    "topic": "animals",
+    "title": "Our Wildlife Diary",
+    "objective": "CEFR-inspired sample lesson: distinguish present perfect connections to now from past simple events at a finished time.",
+    "words": [],
+    "grammarFocus": "Present perfect and past simple",
+    "activities": [
+      {
+        "id": "grammar-b1-perfect-and-past-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "Which sentence correctly links the unfinished period 'since September' to now?",
+        "uk": "Врахуй контекст і вибери речення, яке правильно передає потрібне значення.",
+        "audio": "",
+        "answer": "We have kept a wildlife diary since September.",
+        "choices": [
+          "We keep a wildlife diary since September.",
+          "We kept a wildlife diary since September.",
+          "We have kept a wildlife diary since September."
+        ],
+        "hint": "'Since September' marks a starting point for a period that continues now.",
+        "passage": "The nature club began keeping a wildlife diary in September and still updates it. Yesterday, members added three photographs."
+      },
+      {
+        "id": "grammar-b1-perfect-and-past-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Present perfect and past simple",
+        "prompt": "Complete with the present perfect simple of 'see': Our teacher __ five different birds so far this week.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "has seen",
+        "choices": [],
+        "hint": "The singular subject needs 'has' and the past participle of 'see'.",
+        "answers": [
+          "has seen"
+        ]
+      },
+      {
+        "id": "grammar-b1-perfect-and-past-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "The visit happened at a finished time. Choose the correct repair of: 'We have visited the pond yesterday.'",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "We visited the pond yesterday.",
+        "choices": [
+          "We visited the pond yesterday.",
+          "We have been visiting the pond yesterday.",
+          "We visit the pond yesterday."
+        ],
+        "hint": "'Yesterday' places the visit in a finished past period.",
+        "passage": "The nature club began keeping a wildlife diary in September and still updates it. Yesterday, members added three photographs."
+      },
+      {
+        "id": "grammar-b1-perfect-and-past-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Write a wildlife-club update. Use present perfect for two achievements during a period that continues now. Add one past simple sentence about a visit on a named past day.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 30–60 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Check that your grammar matches the time, person or situation you want to describe.",
+        "minWords": 30,
+        "maxWords": 60,
+        "rubric": [
+          "Use two present perfect statements connected to an unfinished period.",
+          "Use past simple with a clearly finished past time.",
+          "Keep the time references and club update coherent."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-b1-conditionals",
+    "level": "B1",
+    "topic": "school",
+    "title": "Real Plans and Imagined Possibilities",
+    "objective": "CEFR-inspired sample lesson: distinguish realistic future conditions from imagined present situations.",
+    "words": [],
+    "grammarFocus": "First and second conditionals",
+    "activities": [
+      {
+        "id": "grammar-b1-conditionals-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "Which sentence presents dry weather tomorrow as a realistic possibility and states the result?",
+        "uk": "Врахуй контекст і вибери речення, яке правильно передає потрібне значення.",
+        "audio": "",
+        "answer": "If it is dry tomorrow, we will hold the exhibition outside.",
+        "choices": [
+          "If it will be dry tomorrow, we will hold the exhibition outside.",
+          "If it is dry tomorrow, we will hold the exhibition outside.",
+          "If it is dry tomorrow, we would held the exhibition outside."
+        ],
+        "hint": "For a realistic future condition, use present simple after 'if' and 'will' in the result.",
+        "passage": "The class may hold its exhibition outdoors tomorrow if the weather is dry. It does not currently have a larger indoor room, so students also imagine what they could do with one."
+      },
+      {
+        "id": "grammar-b1-conditionals-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "First and second conditionals",
+        "prompt": "Complete the second conditional with the past simple form of 'have': If our school __ a bigger hall, we could invite more visitors.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "had",
+        "choices": [],
+        "hint": "This is an imagined present situation, so the if-clause uses a past form.",
+        "answers": [
+          "had"
+        ]
+      },
+      {
+        "id": "grammar-b1-conditionals-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "The school does not have a larger room. Choose the sentence that correctly imagines the result of having one now.",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "If we had a larger room, we would display more models.",
+        "choices": [
+          "If we have a larger room, we will display more models.",
+          "If we had had a larger room, we would have displayed more models.",
+          "If we had a larger room, we would display more models."
+        ],
+        "hint": "Use second conditional for an imagined situation now, rather than a future plan or an unreal past.",
+        "passage": "The class may hold its exhibition outdoors tomorrow if the weather is dry. It does not currently have a larger indoor room, so students also imagine what they could do with one."
+      },
+      {
+        "id": "grammar-b1-conditionals-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Plan a school exhibition. Include one first conditional about a realistic possibility for tomorrow and one second conditional imagining a resource your school does not currently have.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 30–60 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Check that your grammar matches the time, person or situation you want to describe.",
+        "minWords": 30,
+        "maxWords": 60,
+        "rubric": [
+          "Use present simple plus 'will' correctly in one first conditional.",
+          "Use past simple plus 'would' or 'could' correctly in one second conditional.",
+          "Make the realistic future and imagined present situations distinct."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-b1-relative-clauses",
+    "level": "B1",
+    "topic": "food",
+    "title": "The People and Places Behind Lunch",
+    "objective": "CEFR-inspired sample lesson: join information using defining relative clauses with suitable relative words.",
+    "words": [],
+    "grammarFocus": "Defining relative clauses",
+    "activities": [
+      {
+        "id": "grammar-b1-relative-clauses-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "Choose the sentence that correctly identifies a place.",
+        "uk": "Врахуй контекст і вибери речення, яке правильно передає потрібне значення.",
+        "audio": "",
+        "answer": "This is the garden where we grow herbs.",
+        "choices": [
+          "This is the garden where we grow herbs.",
+          "This is the garden who we grow herbs.",
+          "This is the garden which we grow herbs."
+        ],
+        "hint": "Use 'where' when the following clause means 'in that place' and already has its own object.",
+        "passage": "Our school lunch project involves a cook, a garden and a recipe book. Use defining relative clauses to identify the person, place or thing you mean."
+      },
+      {
+        "id": "grammar-b1-relative-clauses-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Defining relative clauses",
+        "prompt": "Complete with one relative pronoun: The student __ organised the food collection is in my class.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "who",
+        "choices": [],
+        "hint": "The missing word is the subject of a defining clause about a person. Both 'who' and 'that' are possible.",
+        "answers": [
+          "who",
+          "that"
+        ]
+      },
+      {
+        "id": "grammar-b1-relative-clauses-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "Combine the sentences without changing their meaning: 'We use a recipe book. It belongs to the cooking club.'",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "We use a recipe book that belongs to the cooking club.",
+        "choices": [
+          "We use a recipe book where belongs to the cooking club.",
+          "We use a recipe book that belongs to the cooking club.",
+          "We use a recipe book who belongs to the cooking club."
+        ],
+        "hint": "The book is a thing, and the relative pronoun is the subject of 'belongs'.",
+        "passage": "Our school lunch project involves a cook, a garden and a recipe book. Use defining relative clauses to identify the person, place or thing you mean."
+      },
+      {
+        "id": "grammar-b1-relative-clauses-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Describe a real or invented school food project. Identify a person using 'who', a thing using 'which' or 'that', and a place using 'where'.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 30–60 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Check that your grammar matches the time, person or situation you want to describe.",
+        "minWords": 30,
+        "maxWords": 60,
+        "rubric": [
+          "Use a defining relative clause with 'who' for a person.",
+          "Use a defining relative clause with 'which' or 'that' for a thing.",
+          "Use 'where' for a place without leaving out another necessary subject or object."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-b1-passive",
+    "level": "B1",
+    "topic": "school",
+    "title": "How the School Garden Works",
+    "objective": "CEFR-inspired sample lesson: describe routines and completed events using present and past simple passive forms.",
+    "words": [],
+    "grammarFocus": "Present and past simple passive",
+    "activities": [
+      {
+        "id": "grammar-b1-passive-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "Which passive sentence correctly describes the regular morning routine?",
+        "uk": "Врахуй контекст і вибери речення, яке правильно передає потрібне значення.",
+        "audio": "",
+        "answer": "The gate is opened by the caretaker every morning.",
+        "choices": [
+          "The gate opens by the caretaker every morning.",
+          "The gate is opening by the caretaker every morning.",
+          "The gate is opened by the caretaker every morning."
+        ],
+        "hint": "Use present simple 'be' plus the past participle for a passive routine.",
+        "passage": "Different classes share the school garden. The caretaker opens the gate every morning. Last Friday, the gardening club planted six apple trees."
+      },
+      {
+        "id": "grammar-b1-passive-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Present and past simple passive",
+        "prompt": "Complete with the past simple passive of 'plant': Six apple trees __ by the gardening club last Friday.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "were planted",
+        "choices": [],
+        "hint": "The plural subject needs 'were', followed by the past participle.",
+        "answers": [
+          "were planted"
+        ]
+      },
+      {
+        "id": "grammar-b1-passive-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "Change this sentence to the present simple passive: 'Students water the plants every day.'",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "The plants are watered by students every day.",
+        "choices": [
+          "The plants are watered by students every day.",
+          "The plants were watered by students every day.",
+          "The plants are watering by students every day."
+        ],
+        "hint": "Keep the present routine and make the plants the passive subject.",
+        "passage": "Different classes share the school garden. The caretaker opens the gate every morning. Last Friday, the gardening club planted six apple trees."
+      },
+      {
+        "id": "grammar-b1-passive-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Describe a real or invented school garden. Use two present simple passive sentences for routines and one past simple passive sentence for a completed change. Include 'by' to name an agent once.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 30–60 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Check that your grammar matches the time, person or situation you want to describe.",
+        "minWords": 30,
+        "maxWords": 60,
+        "rubric": [
+          "Use two correct present simple passive forms for routines.",
+          "Use a correct past simple passive form with a finished time.",
+          "Use an appropriate 'by' phrase and clear subject-verb agreement."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-b2-reported-speech",
+    "level": "B2",
+    "topic": "school",
+    "title": "Reporting the Science Team's Update",
+    "objective": "CEFR-inspired sample lesson: report statements and questions using conventional past-tense backshift and statement word order.",
+    "words": [],
+    "grammarFocus": "Reported speech and reported questions",
+    "activities": [
+      {
+        "id": "grammar-b2-reported-speech-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "Noor said, 'I have finished the model.' Which report uses the required backshift?",
+        "uk": "Зістав граматичну форму зі змістом ситуації та вибери найточнішу відповідь.",
+        "audio": "",
+        "answer": "Noor said that she had finished the model.",
+        "choices": [
+          "Noor said that she has finished the model.",
+          "Noor said that she had finished the model.",
+          "Noor said that I had finished the model."
+        ],
+        "hint": "Present perfect shifts to past perfect, and Noor's 'I' becomes 'she'.",
+        "passage": "You are writing a report after yesterday's science meeting. For these tasks, use conventional past-tense backshift even when a statement could still be true."
+      },
+      {
+        "id": "grammar-b2-reported-speech-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Reported speech and reported questions",
+        "prompt": "Use conventional backshift to complete the report. Amir said, 'I am measuring the water.' Amir said that he __ the water.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "was measuring",
+        "choices": [],
+        "hint": "Backshift present continuous to past continuous.",
+        "answers": [
+          "was measuring"
+        ]
+      },
+      {
+        "id": "grammar-b2-reported-speech-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "Report the question using past-tense backshift: The teacher asked, 'Where do you keep the samples?' Choose the correct report addressed to us.",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "The teacher asked us where we kept the samples.",
+        "choices": [
+          "The teacher asked us where did we keep the samples.",
+          "The teacher asked us where we kept the samples?",
+          "The teacher asked us where we kept the samples."
+        ],
+        "hint": "Reported questions use statement word order and normally end with a full stop.",
+        "passage": "You are writing a report after yesterday's science meeting. For these tasks, use conventional past-tense backshift even when a statement could still be true."
+      },
+      {
+        "id": "grammar-b2-reported-speech-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Write a short report of an imaginary science meeting. Include two reported statements with backshift and one reported question with statement word order. Make it clear who originally spoke.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 40–80 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Check both the form and its meaning. Make the relevant time relationships or contrasts explicit.",
+        "minWords": 40,
+        "maxWords": 80,
+        "rubric": [
+          "Use appropriate conventional backshift in two reported statements.",
+          "Use statement word order and suitable punctuation in a reported question.",
+          "Keep speakers, pronouns and time references consistent."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-b2-third-conditional",
+    "level": "B2",
+    "topic": "food",
+    "title": "What Could Have Changed at the Fair?",
+    "objective": "CEFR-inspired sample lesson: describe unreal past conditions and results using the third conditional.",
+    "words": [],
+    "grammarFocus": "Third conditional",
+    "activities": [
+      {
+        "id": "grammar-b2-third-conditional-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "Which sentence imagines a different past action and its different past result?",
+        "uk": "Зістав граматичну форму зі змістом ситуації та вибери найточнішу відповідь.",
+        "audio": "",
+        "answer": "If we had counted advance orders, we would have bought fewer rolls.",
+        "choices": [
+          "If we had counted advance orders, we would have bought fewer rolls.",
+          "If we counted advance orders tomorrow, we would buy fewer rolls.",
+          "If we had counted advance orders, we will buy fewer rolls."
+        ],
+        "hint": "An unreal past condition uses 'had' plus past participle; its result uses 'would have' plus past participle.",
+        "passage": "At yesterday's school fair, the class ordered too many bread rolls. They did not count advance orders, so twelve rolls were left over."
+      },
+      {
+        "id": "grammar-b2-third-conditional-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Third conditional",
+        "prompt": "Complete with the past perfect of 'check': If we __ the order list, we would have noticed the mistake.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "had checked",
+        "choices": [],
+        "hint": "The if-clause needs 'had' and the past participle.",
+        "answers": [
+          "had checked"
+        ]
+      },
+      {
+        "id": "grammar-b2-third-conditional-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "Repair the result clause while keeping an unreal past meaning: 'If we had offered smaller portions, we would waste less food yesterday.'",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "If we had offered smaller portions, we would have wasted less food yesterday.",
+        "choices": [
+          "If we had offered smaller portions, we would waste less food yesterday.",
+          "If we had offered smaller portions, we would have wasted less food yesterday.",
+          "If we had offered smaller portions, we will have wasted less food yesterday."
+        ],
+        "hint": "For the unreal past result, use 'would have' followed by the past participle.",
+        "passage": "At yesterday's school fair, the class ordered too many bread rolls. They did not count advance orders, so twelve rolls were left over."
+      },
+      {
+        "id": "grammar-b2-third-conditional-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Review an invented school food event that has already finished. State what actually happened, then use two third conditional sentences to explain how different past decisions could have changed the results.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 40–80 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Check both the form and its meaning. Make the relevant time relationships or contrasts explicit.",
+        "minWords": 40,
+        "maxWords": 80,
+        "rubric": [
+          "State a clear actual past situation.",
+          "Use two third conditionals with correctly formed past conditions and results.",
+          "Ensure the imagined results logically follow from the changed decisions."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-b2-past-deduction",
+    "level": "B2",
+    "topic": "animals",
+    "title": "Clues beside the Pond",
+    "objective": "CEFR-inspired sample lesson: express strong and tentative deductions about past events with modal perfect forms.",
+    "words": [],
+    "grammarFocus": "Must have, might have and cannot have",
+    "activities": [
+      {
+        "id": "grammar-b2-past-deduction-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "The photograph clearly shows Leo removing the cup. Which sentence expresses a strong positive deduction about that past event, rather than an obligation or a weak possibility?",
+        "uk": "Зістав граматичну форму зі змістом ситуації та вибери найточнішу відповідь.",
+        "audio": "",
+        "answer": "Leo must have removed the cup from the box.",
+        "choices": [
+          "Leo must remove the cup from the box.",
+          "Leo might have removed the cup from the box.",
+          "Leo must have removed the cup from the box."
+        ],
+        "hint": "Use 'must have' plus past participle for a strong deduction about the past.",
+        "passage": "The nature club is discussing a missing measuring cup. Leo was the only person with access to a locked box, and a photograph shows him removing the cup. A later photo shows the cup beside the pond."
+      },
+      {
+        "id": "grammar-b2-past-deduction-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Must have, might have and cannot have",
+        "prompt": "Complete with 'might' plus the perfect infinitive of 'leave': We are not sure, but someone __ the notebook beside the pond.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "might have left",
+        "choices": [],
+        "hint": "The pattern is 'might have' plus the past participle of 'leave'.",
+        "answers": [
+          "might have left"
+        ]
+      },
+      {
+        "id": "grammar-b2-past-deduction-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "A time-stamped class photograph proves Nia was indoors at noon. Which sentence correctly expresses that it was impossible for her to be feeding the fish outside at that exact moment?",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "Nia cannot have been feeding the fish outside at noon.",
+        "choices": [
+          "Nia cannot have been feeding the fish outside at noon.",
+          "Nia cannot be feeding the fish outside now.",
+          "Nia should not have been feeding the fish outside at noon."
+        ],
+        "hint": "Use 'cannot have been' plus -ing for a past activity ruled out by evidence.",
+        "passage": "The nature club is discussing a missing measuring cup. Leo was the only person with access to a locked box, and a photograph shows him removing the cup. A later photo shows the cup beside the pond."
+      },
+      {
+        "id": "grammar-b2-past-deduction-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Invent a harmless mystery about a moved object at school. Give clues and use 'must have', 'might have', and 'cannot have' or 'can't have' to distinguish a strong deduction, a possibility, and an impossible past event.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 40–80 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Check both the form and its meaning. Make the relevant time relationships or contrasts explicit.",
+        "minWords": 40,
+        "maxWords": 80,
+        "rubric": [
+          "Use all three requested modal perfect patterns accurately.",
+          "Match each degree of certainty to a relevant clue.",
+          "Keep the account coherent and distinguish deduction from obligation."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-b2-concession",
+    "level": "B2",
+    "topic": "school",
+    "title": "A Useful Plan, Despite the Difficulties",
+    "objective": "CEFR-inspired sample lesson: express concession using clauses and noun phrases without changing the central contrast.",
+    "words": [],
+    "grammarFocus": "Although, despite and even though",
+    "activities": [
+      {
+        "id": "grammar-b2-concession-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "Which sentence correctly expresses the contrast using 'despite'?",
+        "uk": "Зістав граматичну форму зі змістом ситуації та вибери найточнішу відповідь.",
+        "audio": "",
+        "answer": "Despite the cost of the repairs, the stage is useful again.",
+        "choices": [
+          "Despite the repairs were expensive, the stage is useful again.",
+          "Despite the cost of the repairs, the stage is useful again.",
+          "Despite of the expensive repairs, the stage is useful again."
+        ],
+        "hint": "'Despite' takes a noun phrase or -ing form, without 'of'.",
+        "passage": "The school repaired its old stage. The work was expensive, but the drama club can now use it safely. Your report should acknowledge the difficulty while explaining the benefit."
+      },
+      {
+        "id": "grammar-b2-concession-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Although, despite and even though",
+        "prompt": "Complete with the -ing form of 'have': Despite __ very little space, the club produced an impressive show.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "having",
+        "choices": [],
+        "hint": "After 'despite', use the -ing form when referring to an action or situation.",
+        "answers": [
+          "having"
+        ]
+      },
+      {
+        "id": "grammar-b2-concession-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "Rewrite 'Although it rained heavily, the class finished the outdoor survey' using 'despite' and keeping the meaning.",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "Despite the heavy rain, the class finished the outdoor survey.",
+        "choices": [
+          "Despite it rained heavily, the class finished the outdoor survey.",
+          "Despite the heavy rain, but the class finished the outdoor survey.",
+          "Despite the heavy rain, the class finished the outdoor survey."
+        ],
+        "hint": "Turn the weather clause into a noun phrase and do not add 'but'.",
+        "passage": "The school repaired its old stage. The work was expensive, but the drama club can now use it safely. Your report should acknowledge the difficulty while explaining the benefit."
+      },
+      {
+        "id": "grammar-b2-concession-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Recommend a school project that has benefits and difficulties. Include one sentence with 'although' plus a clause, one with 'despite' plus a noun phrase or -ing form, and one clear final recommendation.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 40–80 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Check both the form and its meaning. Make the relevant time relationships or contrasts explicit.",
+        "minWords": 40,
+        "maxWords": 80,
+        "rubric": [
+          "Use 'although' with a complete subordinate clause.",
+          "Use 'despite' with a suitable noun phrase or -ing form, without 'of'.",
+          "Express genuine contrasts and connect them to a clear recommendation."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-c1-inversion",
+    "level": "C1",
+    "topic": "school",
+    "title": "Emphasising an Unexpected Discovery",
+    "objective": "CEFR-inspired sample lesson: use inversion after fronted negative and restrictive expressions in a formal account.",
+    "words": [],
+    "grammarFocus": "Inversion after negative and restrictive expressions",
+    "activities": [
+      {
+        "id": "grammar-c1-inversion-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "Which sentence correctly uses inversion after 'Not until'?",
+        "uk": "Проаналізуй контекст, граматичну структуру й акцент висловлювання. Вибери найкращий варіант.",
+        "audio": "",
+        "answer": "Not until we finished the survey did we notice the missing path.",
+        "choices": [
+          "Not until we finished the survey did we notice the missing path.",
+          "Not until did we finish the survey we noticed the missing path.",
+          "Not until we finished the survey we did notice the missing path."
+        ],
+        "hint": "Keep normal word order inside the 'until' clause; invert the auxiliary and subject in the main clause.",
+        "passage": "The science club discovered that its map omitted a footpath only after completing the survey. In a formal account, the writer wants to emphasise how late the discovery came."
+      },
+      {
+        "id": "grammar-c1-inversion-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Inversion after negative and restrictive expressions",
+        "prompt": "Complete the formal transformation using inversion and the verb 'realise': Only after reading the comments __ how confusing our map was. Use 'we' as the subject and past simple.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "did we realise",
+        "choices": [],
+        "hint": "After the fronted restrictive phrase, use 'did', then the subject, then the base verb.",
+        "answers": [
+          "did we realise",
+          "did we realize"
+        ]
+      },
+      {
+        "id": "grammar-c1-inversion-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "Choose the correct formal revision of: 'Rarely students question the map's symbols.'",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "Rarely do students question the map's symbols.",
+        "choices": [
+          "Rarely students do question the map's symbols.",
+          "Rarely do students question the map's symbols.",
+          "Rarely are students question the map's symbols."
+        ],
+        "hint": "Fronted 'rarely' requires auxiliary-subject inversion; a present simple lexical verb needs 'do'.",
+        "passage": "The science club discovered that its map omitted a footpath only after completing the survey. In a formal account, the writer wants to emphasise how late the discovery came."
+      },
+      {
+        "id": "grammar-c1-inversion-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Write a formal reflection on a real or invented school investigation. Include one sentence beginning 'Only after' and one beginning 'Rarely' or 'Never'. Use inversion to give each point appropriate emphasis.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 50–90 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Use the structures purposefully. Check agreement, word order and the relationship between clauses.",
+        "minWords": 50,
+        "maxWords": 90,
+        "rubric": [
+          "Use correct main-clause inversion after a fronted 'Only after' phrase or clause.",
+          "Use correct auxiliary-subject inversion after 'Rarely' or 'Never'.",
+          "Use emphasis purposefully within a coherent formal reflection."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-c1-clefts",
+    "level": "C1",
+    "topic": "food",
+    "title": "What the Lunch Project Really Needed",
+    "objective": "CEFR-inspired sample lesson: use it-clefts and wh-clefts to place contrastive focus on a specific part of a message.",
+    "words": [],
+    "grammarFocus": "It-clefts and wh-clefts",
+    "activities": [
+      {
+        "id": "grammar-c1-clefts-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "Which cleft sentence puts the focus on the actual need and explicitly corrects the mistaken assumption?",
+        "uk": "Проаналізуй контекст, граматичну структуру й акцент висловлювання. Вибери найкращий варіант.",
+        "audio": "",
+        "answer": "What the survey needed was clearer questions, not more volunteers.",
+        "choices": [
+          "It was more volunteers that the survey needed, rather than clearer questions.",
+          "What the volunteers needed was a longer lunch break.",
+          "What the survey needed was clearer questions, not more volunteers."
+        ],
+        "hint": "A wh-cleft can foreground the needed change while rejecting the alternative.",
+        "passage": "The lunch survey was delayed because its questions were unclear. The number of volunteers was sufficient. The organisers want to correct the assumption that they needed more helpers."
+      },
+      {
+        "id": "grammar-c1-clefts-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "It-clefts and wh-clefts",
+        "prompt": "Emphasise 'the timetable' using an it-cleft with 'that': The timetable caused the confusion. It __ caused the confusion. Use a past cleft beginning with “It was”.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "was the timetable that",
+        "choices": [],
+        "hint": "Use 'It was' plus the focused noun phrase, followed by 'that'.",
+        "answers": [
+          "was the timetable that"
+        ]
+      },
+      {
+        "id": "grammar-c1-clefts-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "Choose the grammatical revision that retains focus on the missing information: 'What we needed it was a list of ingredients.'",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "What we needed was a list of ingredients.",
+        "choices": [
+          "What we needed was a list of ingredients.",
+          "What did we need was a list of ingredients.",
+          "What we needed that was a list of ingredients."
+        ],
+        "hint": "The wh-clause is already the subject of 'was'; it does not need an extra 'it' or question word order.",
+        "passage": "The lunch survey was delayed because its questions were unclear. The number of volunteers was sufficient. The organisers want to correct the assumption that they needed more helpers."
+      },
+      {
+        "id": "grammar-c1-clefts-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Write a project review correcting two misunderstandings about a school food event. Use one it-cleft to emphasise who or what made a difference and one wh-cleft to explain what was really needed.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 50–90 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Use the structures purposefully. Check agreement, word order and the relationship between clauses.",
+        "minWords": 50,
+        "maxWords": 90,
+        "rubric": [
+          "Use a grammatical it-cleft with a clearly focused element.",
+          "Use a grammatical wh-cleft without an unnecessary repeated subject.",
+          "Make the contrast or correction expressed by each cleft clear in context."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-c1-participle-clauses",
+    "level": "C1",
+    "topic": "animals",
+    "title": "A Concise Fieldwork Report",
+    "objective": "CEFR-inspired sample lesson: use participle clauses with a shared subject and distinguish completed earlier actions.",
+    "words": [],
+    "grammarFocus": "Participle clauses and perfect participles",
+    "activities": [
+      {
+        "id": "grammar-c1-participle-clauses-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "Which sentence uses a perfect participle clause with a clear, matching subject?",
+        "uk": "Проаналізуй контекст, граматичну структуру й акцент висловлювання. Вибери найкращий варіант.",
+        "audio": "",
+        "answer": "Having checked the equipment, the students began the bird count.",
+        "choices": [
+          "Having checked the equipment, the bird count began.",
+          "Having checked the equipment, the students began the bird count.",
+          "Having checked the equipment, there were several birds to count."
+        ],
+        "hint": "The understood subject of 'having checked' must also be the subject of the main clause.",
+        "passage": "The nature club checked its equipment, then began the bird count. Concise reporting must make it clear who performed each action and which action came first."
+      },
+      {
+        "id": "grammar-c1-participle-clauses-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Participle clauses and perfect participles",
+        "prompt": "Combine the actions using a perfect participle clause: The pupils recorded the water temperature first. Then they compared the samples. __ the water temperature, the pupils compared the samples.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "Having recorded",
+        "choices": [],
+        "hint": "Use 'having' plus past participle to mark the completed earlier action.",
+        "answers": [
+          "Having recorded",
+          "having recorded"
+        ]
+      },
+      {
+        "id": "grammar-c1-participle-clauses-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "Repair the dangling modifier while preserving who walked: 'Walking beside the pond, a damaged sign was noticed by the students.'",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "Walking beside the pond, the students noticed a damaged sign.",
+        "choices": [
+          "Walking beside the pond, the damaged sign attracted the students.",
+          "Walking beside the pond, there was a sign that the students noticed.",
+          "Walking beside the pond, the students noticed a damaged sign."
+        ],
+        "hint": "Place the people who were walking immediately after the introductory participle clause.",
+        "passage": "The nature club checked its equipment, then began the bird count. Concise reporting must make it clear who performed each action and which action came first."
+      },
+      {
+        "id": "grammar-c1-participle-clauses-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Write a concise report of a nature observation. Use one -ing participle clause for an accompanying action and one 'having' + past participle clause for an earlier completed action. Keep each understood subject clear.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 50–90 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Use the structures purposefully. Check agreement, word order and the relationship between clauses.",
+        "minWords": 50,
+        "maxWords": 90,
+        "rubric": [
+          "Use an -ing clause whose understood subject matches the main-clause subject.",
+          "Use a perfect participle clause to establish the order of completed actions.",
+          "Avoid dangling modifiers and maintain a coherent report."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-c1-hedging-nominalisation",
+    "level": "C1",
+    "topic": "school",
+    "title": "Cautious Claims in a Science Report",
+    "objective": "CEFR-inspired sample lesson: combine reporting structures and nominalisation to make evidence-based claims without overstating certainty.",
+    "words": [],
+    "grammarFocus": "Hedging and nominalisation",
+    "activities": [
+      {
+        "id": "grammar-c1-hedging-nominalisation-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "Which sentence uses a grammatical reporting structure and appropriately hedges the causal interpretation?",
+        "uk": "Проаналізуй контекст, граматичну структуру й акцент висловлювання. Вибери найкращий варіант.",
+        "audio": "",
+        "answer": "The results suggest that extra light may have contributed to the difference.",
+        "choices": [
+          "The results suggest that extra light may have contributed to the difference.",
+          "The results suggest extra light to have certainly caused the difference.",
+          "The results are suggested that extra light caused the difference."
+        ],
+        "hint": "Use 'suggest that' with a clause, and retain uncertainty about the cause.",
+        "passage": "The class tested two seed trays. One received more light and its seedlings were taller, but the class did not control every other condition. The report must distinguish an observed difference from a proven cause."
+      },
+      {
+        "id": "grammar-c1-hedging-nominalisation-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Hedging and nominalisation",
+        "prompt": "Nominalise the action 'failed to control' using a three-word phrase beginning with 'failure': The group failed to control the temperature, which weakened its conclusion. The group's __ the temperature weakened its conclusion.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "failure to control",
+        "choices": [],
+        "hint": "Turn 'failed' into the noun 'failure' and retain the following to-infinitive.",
+        "answers": [
+          "failure to control"
+        ]
+      },
+      {
+        "id": "grammar-c1-hedging-nominalisation-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "Rewrite the observation using a correctly formed nominalised subject: 'The seedlings grew more rapidly after the light was moved.' Do not add certainty about causation.",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "More rapid seedling growth was observed after the light was moved.",
+        "choices": [
+          "The seedlings' more rapidly grow followed the movement of the light.",
+          "More rapid seedling growth was observed after the light was moved.",
+          "The moving light proved the cause of rapidly growth in the seedlings."
+        ],
+        "hint": "Use a noun phrase such as 'seedling growth' and keep 'after' as a time relationship.",
+        "passage": "The class tested two seed trays. One received more light and its seedlings were taller, but the class did not control every other condition. The report must distinguish an observed difference from a proven cause."
+      },
+      {
+        "id": "grammar-c1-hedging-nominalisation-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Write a short report on an invented classroom experiment. Include two cautious claims using structures such as 'suggest that', 'appear to' or 'may have'. Use two clear nominalisations without making the prose unnecessarily dense.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 50–90 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Use the structures purposefully. Check agreement, word order and the relationship between clauses.",
+        "minWords": 50,
+        "maxWords": 90,
+        "rubric": [
+          "Use two grammatical hedging structures that match limited evidence.",
+          "Use at least two appropriate nominalisations in clear noun phrases.",
+          "Distinguish observations from causal interpretations and maintain a readable formal style."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-c2-subtle-modality",
+    "level": "C2",
+    "topic": "school",
+    "title": "Necessary, Advisable, or Already Done?",
+    "objective": "CEFR-inspired sample lesson: distinguish completed but unnecessary actions from absent obligations and unrealised advice.",
+    "words": [],
+    "grammarFocus": "Need not have, did not need to and should have",
+    "activities": [
+      {
+        "id": "grammar-c2-subtle-modality-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "Which wording explicitly presents printing as an action that happened but was unnecessary?",
+        "uk": "Вибери структуру, яка точно зберігає значення, смислові відтінки та потрібний стиль.",
+        "audio": "",
+        "answer": "We need not have printed programmes.",
+        "choices": [
+          "We did not need to print programmes.",
+          "We need not have printed programmes.",
+          "We should not print programmes."
+        ],
+        "hint": "'Need not have' plus past participle explicitly evaluates an action already performed.",
+        "passage": "The exhibition team printed fifty programmes. On arrival, they discovered that the organisers had already supplied enough copies. By contrast, they were told in advance not to bring chairs, so they brought none."
+      },
+      {
+        "id": "grammar-c2-subtle-modality-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Need not have, did not need to and should have",
+        "prompt": "Complete using 'need not' plus the perfect infinitive of 'buy': The cupboard already contained enough paper. We __ those extra sheets.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "need not have bought",
+        "choices": [],
+        "hint": "Use 'need not have' plus the past participle of 'buy'. A contraction is also acceptable.",
+        "answers": [
+          "need not have bought",
+          "needn't have bought",
+          "needn’t have bought"
+        ]
+      },
+      {
+        "id": "grammar-c2-subtle-modality-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "The team was told that chairs were unnecessary and therefore brought none. Which revision states both the lack of necessity and the non-occurrence without implying a completed unnecessary action?",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "We did not need to bring chairs, so we brought none.",
+        "choices": [
+          "We need not have brought chairs, so we brought none.",
+          "We should not have brought chairs, although we brought none.",
+          "We did not need to bring chairs, so we brought none."
+        ],
+        "hint": "'Did not need to' states the absence of necessity; the second clause explicitly confirms what did not happen.",
+        "passage": "The exhibition team printed fifty programmes. On arrival, they discovered that the organisers had already supplied enough copies. By contrast, they were told in advance not to bring chairs, so they brought none."
+      },
+      {
+        "id": "grammar-c2-subtle-modality-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Write a reflective note after a school event. Distinguish a completed but unnecessary action using 'need not have', an action avoided because it was unnecessary using 'did not need to', and an unfulfilled recommendation using 'should have'.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 60–100 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Check whether each grammatical choice preserves the exact scope, time relationship or emphasis you intend.",
+        "minWords": 60,
+        "maxWords": 100,
+        "rubric": [
+          "Use 'need not have' with an action explicitly shown to have occurred.",
+          "Use 'did not need to' with context confirming the action did not occur.",
+          "Use 'should have' for an unfulfilled recommendation and keep all three meanings distinct."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-c2-advanced-conditionals",
+    "level": "C2",
+    "topic": "animals",
+    "title": "Past Decisions, Present Consequences",
+    "objective": "CEFR-inspired sample lesson: express mixed-time counterfactuals and formal conditional inversion precisely.",
+    "words": [],
+    "grammarFocus": "Mixed conditionals and conditional inversion",
+    "activities": [
+      {
+        "id": "grammar-c2-advanced-conditionals-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "Which sentence correctly links the unreal past action to its present consequence?",
+        "uk": "Вибери структуру, яка точно зберігає значення, смислові відтінки та потрібний стиль.",
+        "audio": "",
+        "answer": "If we had labelled the photographs, we would know the locations now.",
+        "choices": [
+          "If we had labelled the photographs, we would know the locations now.",
+          "If we labelled the photographs last week, we would have known the locations now.",
+          "If we had labelled the photographs, we will know the locations now."
+        ],
+        "hint": "Use past perfect for the unreal past condition and 'would' plus base verb for the present result.",
+        "passage": "The class did not label its insect photographs last week. It cannot identify several locations now. A separate plan for next month's survey depends on permission that has not yet been granted."
+      },
+      {
+        "id": "grammar-c2-advanced-conditionals-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Mixed conditionals and conditional inversion",
+        "prompt": "Transform the if-clause using formal inversion: If the team had kept a map, we could identify the locations now. __ a map, we could identify the locations now.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "Had the team kept",
+        "choices": [],
+        "hint": "Remove 'if' and place 'had' before the subject, keeping the past participle.",
+        "answers": [
+          "Had the team kept",
+          "had the team kept"
+        ]
+      },
+      {
+        "id": "grammar-c2-advanced-conditionals-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "Choose the formal inverted version of 'If permission were to be granted, the class could survey the reserve next month.'",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "Were permission to be granted, the class could survey the reserve next month.",
+        "choices": [
+          "Were permission granted to be, the class could survey the reserve next month.",
+          "Were permission to be granted, the class could survey the reserve next month.",
+          "Would permission be granted, the class could survey the reserve next month."
+        ],
+        "hint": "Move 'were' before the subject and keep 'to be granted' together.",
+        "passage": "The class did not label its insect photographs last week. It cannot identify several locations now. A separate plan for next month's survey depends on permission that has not yet been granted."
+      },
+      {
+        "id": "grammar-c2-advanced-conditionals-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Write a formal review of a nature project. Use one mixed conditional linking a past decision to a present consequence, one inverted past conditional beginning 'Had', and one tentative future condition beginning 'Were'.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 60–100 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Check whether each grammatical choice preserves the exact scope, time relationship or emphasis you intend.",
+        "minWords": 60,
+        "maxWords": 100,
+        "rubric": [
+          "Express an accurate past-to-present time relationship in a mixed conditional.",
+          "Form a correct 'Had' conditional without 'if'.",
+          "Form a correct 'Were' conditional and keep the proposed future situation distinct."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-c2-scope-ambiguity",
+    "level": "C2",
+    "topic": "food",
+    "title": "What Exactly Does 'Only' Modify?",
+    "objective": "CEFR-inspired sample lesson: control the scope of negation and focus particles to avoid misleading generalisations.",
+    "words": [],
+    "grammarFocus": "Scope of only and not all",
+    "activities": [
+      {
+        "id": "grammar-c2-scope-ambiguity-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "Which revision explicitly states both that at least one pupil liked the soup and at least one did not?",
+        "uk": "Вибери структуру, яка точно зберігає значення, смислові відтінки та потрібний стиль.",
+        "audio": "",
+        "answer": "Some pupils liked the soup, but not all did.",
+        "choices": [
+          "All pupils did not like the soup.",
+          "No pupils liked the soup.",
+          "Some pupils liked the soup, but not all did."
+        ],
+        "hint": "Avoid wording that can be read as universal rejection; state both parts of the mixed result.",
+        "passage": "In a food survey, some pupils liked the new soup and some did not. Among the dishes offered, the vegetable curry alone received an award. Precise wording must preserve these distinctions."
+      },
+      {
+        "id": "grammar-c2-scope-ambiguity-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Scope of only and not all",
+        "prompt": "Preserve the meaning of 'It was not the case that every pupil preferred the soup.' Complete with exactly two words, starting with 'Not': __ pupils preferred the soup.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "Not all",
+        "choices": [],
+        "hint": "Negate the universal quantifier without adding a claim about how many pupils held the preference.",
+        "answers": [
+          "Not all",
+          "not all"
+        ]
+      },
+      {
+        "id": "grammar-c2-scope-ambiguity-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "Rewrite 'Only the cook praised the new soup' with 'no', preserving exactly what 'only' restricts.",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "No one other than the cook praised the new soup.",
+        "choices": [
+          "No one other than the cook praised the new soup.",
+          "The cook praised no dish other than the new soup.",
+          "The cook did nothing other than praise the new soup."
+        ],
+        "hint": "'Only' restricts the person who praised, not the range of dishes or actions.",
+        "passage": "In a food survey, some pupils liked the new soup and some did not. Among the dishes offered, the vegetable curry alone received an award. Precise wording must preserve these distinctions."
+      },
+      {
+        "id": "grammar-c2-scope-ambiguity-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Write a precise report of an invented school food survey. Use 'not all' and then clarify who differed. Use 'only' twice, placing it immediately before different elements you intend to restrict, and make each restriction clear from context.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 60–100 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Check whether each grammatical choice preserves the exact scope, time relationship or emphasis you intend.",
+        "minWords": 60,
+        "maxWords": 100,
+        "rubric": [
+          "Use 'not all' for partial rather than universal negation and clarify the differing group.",
+          "Use 'only' twice with clearly different, appropriately placed scopes.",
+          "Maintain an unambiguous account whose claims match the stated survey facts."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grammar-c2-information-structure",
+    "level": "C2",
+    "topic": "school",
+    "title": "Putting Complex Information in Its Place",
+    "objective": "CEFR-inspired sample lesson: use extraposition and contrastive fronting to manage information while preserving agency and logical relationships.",
+    "words": [],
+    "grammarFocus": "Extraposition, contrastive fronting and formal register",
+    "activities": [
+      {
+        "id": "grammar-c2-information-structure-check",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Grammar in context",
+        "prompt": "Which version uses anticipatory 'it' to move the heavy subject to the end while preserving this meaning: 'Whether the model can withstand repeated outdoor use remains uncertain'?",
+        "uk": "Вибери структуру, яка точно зберігає значення, смислові відтінки та потрібний стиль.",
+        "audio": "",
+        "answer": "It remains uncertain whether the model can withstand repeated outdoor use.",
+        "choices": [
+          "It is repeated outdoor use that the team remains uncertain whether the model can withstand.",
+          "It remains uncertain whether the model can withstand repeated outdoor use.",
+          "It remains uncertain, the model that can withstand repeated outdoor use."
+        ],
+        "hint": "Anticipatory 'it' occupies the subject position, while the original whether-clause comes later.",
+        "passage": "The design team has tested a model indoors but has not established how it will perform outside. Its committee report must distinguish confirmed results, unresolved questions and proposed decisions."
+      },
+      {
+        "id": "grammar-c2-information-structure-gap",
+        "kind": "gap",
+        "skill": "sentences",
+        "item": "Extraposition, contrastive fronting and formal register",
+        "prompt": "Transform the sentence using anticipatory 'it', keeping the same words for the evaluation and action: 'To determine whether the model will remain stable outdoors is difficult.' It __ whether the model will remain stable outdoors.",
+        "uk": "Заповни пропуск англійською мовою. Впиши лише потрібне слово або словосполучення й дотримуйся граматичної вказівки.",
+        "audio": "Read the sentence and type only the missing word or words. Follow the grammar instruction.",
+        "answer": "is difficult to determine",
+        "choices": [],
+        "hint": "Put the evaluation after 'it', then place the infinitive phrase later in the sentence.",
+        "answers": [
+          "is difficult to determine"
+        ]
+      },
+      {
+        "id": "grammar-c2-information-structure-edit",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Edit and transform",
+        "prompt": "The team accepts the need for repairs but questions the proposed delay. Which formal revision uses contrastive object fronting and preserves both positions?",
+        "uk": "Вибери правильне виправлення або переформулювання. Збережи значення та виконай граматичну умову.",
+        "audio": "",
+        "answer": "The need for repairs, the team accepts; the proposed delay, it questions.",
+        "choices": [
+          "The need for repairs accepts the team; the proposed delay questions it.",
+          "The need for repairs, the team questions; the proposed delay, it accepts.",
+          "The need for repairs, the team accepts; the proposed delay, it questions."
+        ],
+        "hint": "Front each object while keeping the team's role as subject and the direction of each judgement unchanged.",
+        "passage": "The design team has tested a model indoors but has not established how it will perform outside. Its committee report must distinguish confirmed results, unresolved questions and proposed decisions."
+      },
+      {
+        "id": "grammar-c2-information-structure-write",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Apply the structure",
+        "prompt": "Write a formal committee note about a school design project. Use anticipatory 'it' to place a substantial infinitive or whether-clause later in a sentence. Use parallel object fronting to contrast two decisions, and clearly name who is responsible for taking them.",
+        "uk": "Напиши відповідь англійською мовою та використай усі зазначені граматичні структури. Обсяг: 60–100 слів. Перевір текст за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Check whether each grammatical choice preserves the exact scope, time relationship or emphasis you intend.",
+        "minWords": 60,
+        "maxWords": 100,
+        "rubric": [
+          "Use grammatical extraposition with anticipatory 'it' and a substantial postponed clause.",
+          "Use two parallel fronted objects while preserving clear subjects and contrasting judgements.",
+          "Maintain a coherent formal register, clear agency and precise relationships between decisions."
+        ]
+      }
+    ]
+  }
+]

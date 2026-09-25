@@ -1,0 +1,3 @@
+Ukrainian dictionary mappings adapted from https://github.com/dmklinger/ukrainian
+License: Creative Commons Attribution-ShareAlike 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+Changes: reverse English gloss lookup, filter to atlas entries, deduplicate and select up to three meanings. These derived dictionary mappings remain CC BY-SA 3.0. Authored function-word explanations are separately marked.

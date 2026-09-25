@@ -1,0 +1,482 @@
+[
+  {
+    "word": "water",
+    "domain": "general",
+    "level": "A1",
+    "definition": "The clear liquid that people, animals, and plants need to live.",
+    "sentence": "There is water in my bottle.",
+    "uk": "вода"
+  },
+  {
+    "word": "family",
+    "domain": "general",
+    "level": "A1",
+    "definition": "People connected by being relatives or sharing a close home life.",
+    "sentence": "My family likes to cook together.",
+    "uk": "сім'я; родина"
+  },
+  {
+    "word": "friend",
+    "domain": "general",
+    "level": "A1",
+    "definition": "Someone you like and enjoy spending time with.",
+    "sentence": "My friend has a red bag.",
+    "uk": "друг; подруга"
+  },
+  {
+    "word": "home",
+    "domain": "general",
+    "level": "A1",
+    "definition": "The place where someone lives.",
+    "sentence": "There is a small park near our home.",
+    "uk": "дім; домівка"
+  },
+  {
+    "word": "school",
+    "domain": "general",
+    "level": "A1",
+    "definition": "A place where children learn with teachers.",
+    "sentence": "Our school has a small garden.",
+    "uk": "школа"
+  },
+  {
+    "word": "book",
+    "domain": "general",
+    "level": "A1",
+    "definition": "Written pages that tell a story or give information, on paper or a screen.",
+    "sentence": "This book is about a little dog.",
+    "uk": "книжка"
+  },
+  {
+    "word": "eat",
+    "domain": "general",
+    "level": "A1",
+    "definition": "To take food into your body through your mouth.",
+    "sentence": "I eat an apple at break time.",
+    "uk": "їсти"
+  },
+  {
+    "word": "drink",
+    "domain": "general",
+    "level": "A1",
+    "definition": "To swallow water or another liquid.",
+    "sentence": "We drink water after our game.",
+    "uk": "пити"
+  },
+  {
+    "word": "help",
+    "domain": "general",
+    "level": "A1",
+    "definition": "To make a task or situation easier for someone.",
+    "sentence": "Can you help me with this box?",
+    "uk": "допомагати"
+  },
+  {
+    "word": "play",
+    "domain": "general",
+    "level": "A1",
+    "definition": "To do an activity for fun.",
+    "sentence": "We play a game in the garden.",
+    "uk": "грати; гратися"
+  },
+  {
+    "word": "choose",
+    "domain": "general",
+    "level": "A2",
+    "definition": "To decide which person or thing you want from the options available.",
+    "sentence": "You can choose a story for us to read.",
+    "uk": "обирати"
+  },
+  {
+    "word": "finish",
+    "domain": "general",
+    "level": "A2",
+    "definition": "To complete something you are doing.",
+    "sentence": "I will finish my drawing after lunch.",
+    "uk": "закінчувати"
+  },
+  {
+    "word": "bring",
+    "domain": "general",
+    "level": "A2",
+    "definition": "To take someone or something with you to the place being discussed.",
+    "sentence": "Please bring your notebook to the club tomorrow.",
+    "uk": "приносити; приводити"
+  },
+  {
+    "word": "carry",
+    "domain": "general",
+    "level": "A2",
+    "definition": "To hold or support something while moving it.",
+    "sentence": "We can carry the long box together.",
+    "uk": "нести; переносити"
+  },
+  {
+    "word": "follow",
+    "domain": "general",
+    "level": "A2",
+    "definition": "To do what a set of instructions tells you to do.",
+    "sentence": "Please follow these steps to make a paper boat.",
+    "uk": "дотримуватися інструкцій"
+  },
+  {
+    "word": "explain",
+    "domain": "general",
+    "level": "A2",
+    "definition": "To make an idea or situation easier to understand.",
+    "sentence": "Can you explain the rules of this game?",
+    "uk": "пояснювати"
+  },
+  {
+    "word": "return",
+    "domain": "general",
+    "level": "A2",
+    "definition": "To give something back to its owner or usual place.",
+    "sentence": "Please return the scissors to the art box.",
+    "uk": "повертати"
+  },
+  {
+    "word": "enough",
+    "domain": "general",
+    "level": "A2",
+    "definition": "As much or as many as needed.",
+    "sentence": "We have enough paper for everyone to make a card.",
+    "uk": "достатньо"
+  },
+  {
+    "word": "before",
+    "domain": "general",
+    "level": "A2",
+    "definition": "Earlier than a particular time or event.",
+    "sentence": "We put our bags away before the lesson starts.",
+    "uk": "перед; до того як"
+  },
+  {
+    "word": "together",
+    "domain": "general",
+    "level": "A2",
+    "definition": "With one another in the same place or activity.",
+    "sentence": "Our class made a big picture together.",
+    "uk": "разом"
+  },
+  {
+    "word": "decide",
+    "domain": "general",
+    "level": "B1",
+    "definition": "To make a choice after thinking about the possibilities.",
+    "sentence": "We need to decide which game will work best for a large group.",
+    "uk": "вирішувати"
+  },
+  {
+    "word": "suggest",
+    "domain": "general",
+    "level": "B1",
+    "definition": "To offer an idea for someone to consider.",
+    "sentence": "I suggest meeting in the library because it is quiet.",
+    "uk": "пропонувати"
+  },
+  {
+    "word": "compare",
+    "domain": "general",
+    "level": "B1",
+    "definition": "To examine things to find their similarities and differences.",
+    "sentence": "We will compare the two stories and discuss their endings.",
+    "uk": "порівнювати"
+  },
+  {
+    "word": "prepare",
+    "domain": "general",
+    "level": "B1",
+    "definition": "To make something ready for a future activity or event.",
+    "sentence": "Our group will prepare a short talk about the garden project.",
+    "uk": "готувати"
+  },
+  {
+    "word": "improve",
+    "domain": "general",
+    "level": "B1",
+    "definition": "To make something better or become better.",
+    "sentence": "Feedback from a partner can help us improve our writing.",
+    "uk": "поліпшувати; удосконалювати"
+  },
+  {
+    "word": "include",
+    "domain": "general",
+    "level": "B1",
+    "definition": "To have someone or something as part of a group or whole.",
+    "sentence": "The new club will include activities for beginners as well as experienced members.",
+    "uk": "включати; містити"
+  },
+  {
+    "word": "expect",
+    "domain": "general",
+    "level": "B1",
+    "definition": "To think that something will probably happen.",
+    "sentence": "We expect more students to join after they see the club's display.",
+    "uk": "очікувати"
+  },
+  {
+    "word": "avoid",
+    "domain": "general",
+    "level": "B1",
+    "definition": "To act so that something unwanted does not happen.",
+    "sentence": "We labelled each box to avoid confusion when packing the equipment.",
+    "uk": "уникати"
+  },
+  {
+    "word": "instead",
+    "domain": "general",
+    "level": "B1",
+    "definition": "In place of another action or option.",
+    "sentence": "The field was too wet, so we played a board game instead.",
+    "uk": "натомість; замість цього"
+  },
+  {
+    "word": "however",
+    "domain": "general",
+    "level": "B1",
+    "definition": "Used to introduce an idea that contrasts with what was just said.",
+    "sentence": "The room is small; however, it has space for our reading group.",
+    "uk": "однак; проте"
+  },
+  {
+    "word": "consider",
+    "domain": "general",
+    "level": "B2",
+    "definition": "To think carefully about an idea or option before judging it.",
+    "sentence": "We should consider how the timetable change would affect students who travel by bus.",
+    "uk": "розглядати; обмірковувати"
+  },
+  {
+    "word": "evaluate",
+    "domain": "general",
+    "level": "B2",
+    "definition": "To judge the quality or value of something using relevant information.",
+    "sentence": "The team will evaluate the new reading space using both attendance records and student comments.",
+    "uk": "оцінювати"
+  },
+  {
+    "word": "justify",
+    "domain": "general",
+    "level": "B2",
+    "definition": "To give good reasons for a decision, action, or opinion.",
+    "sentence": "Each group must justify its choice of materials by referring to the design requirements.",
+    "uk": "обґрунтовувати"
+  },
+  {
+    "word": "reflect",
+    "domain": "general",
+    "level": "B2",
+    "definition": "To think carefully about an experience and what can be learned from it.",
+    "sentence": "After the event, we will reflect on what went well and what needs to change.",
+    "uk": "осмислювати; розмірковувати"
+  },
+  {
+    "word": "assume",
+    "domain": "general",
+    "level": "B2",
+    "definition": "To accept something as true without having enough evidence to be certain.",
+    "sentence": "We should not assume that students who missed the meeting are uninterested in the project.",
+    "uk": "припускати"
+  },
+  {
+    "word": "enable",
+    "domain": "general",
+    "level": "B2",
+    "definition": "To make it possible for someone to do something.",
+    "sentence": "Providing school cameras would enable more students to take part in the photography club.",
+    "uk": "давати змогу"
+  },
+  {
+    "word": "maintain",
+    "domain": "general",
+    "level": "B2",
+    "definition": "To keep something at a particular level or in a suitable condition.",
+    "sentence": "The group needs a clear plan to maintain the garden during the school holidays.",
+    "uk": "підтримувати; утримувати в належному стані"
+  },
+  {
+    "word": "contrast",
+    "domain": "general",
+    "level": "B2",
+    "definition": "To examine things in a way that highlights their differences.",
+    "sentence": "The report will contrast the organisers' expectations with what visitors actually experienced.",
+    "uk": "зіставляти, підкреслюючи відмінності"
+  },
+  {
+    "word": "whereas",
+    "domain": "general",
+    "level": "B2",
+    "definition": "Used to connect two facts that differ in a significant way.",
+    "sentence": "The first survey reached only club members, whereas the second invited every student to respond.",
+    "uk": "тоді як"
+  },
+  {
+    "word": "despite",
+    "domain": "general",
+    "level": "B2",
+    "definition": "Without being prevented by the situation mentioned.",
+    "sentence": "The event attracted many visitors despite the heavy rain.",
+    "uk": "попри; незважаючи на"
+  },
+  {
+    "word": "acknowledge",
+    "domain": "general",
+    "level": "C1",
+    "definition": "To recognise a fact or concern and accept that it deserves attention.",
+    "sentence": "The proposal should acknowledge that wider participation may require more than simply sending another invitation.",
+    "uk": "визнавати; брати до уваги"
+  },
+  {
+    "word": "distinguish",
+    "domain": "general",
+    "level": "C1",
+    "definition": "To recognise or explain the difference between things that might be confused.",
+    "sentence": "We need to distinguish a fall in recorded waste from a proven change in eating habits.",
+    "uk": "розрізняти"
+  },
+  {
+    "word": "imply",
+    "domain": "general",
+    "level": "C1",
+    "definition": "To suggest a meaning without stating it directly.",
+    "sentence": "Calling the room flexible may imply that every activity can take place there, although the timetable says otherwise.",
+    "uk": "мати на увазі; непрямо вказувати"
+  },
+  {
+    "word": "assess",
+    "domain": "general",
+    "level": "C1",
+    "definition": "To form a considered judgement about something using suitable evidence or criteria.",
+    "sentence": "To assess whether the trial succeeded, the team must first agree whose experience its measures should capture.",
+    "uk": "оцінювати на підставі даних або критеріїв"
+  },
+  {
+    "word": "interpret",
+    "domain": "general",
+    "level": "C1",
+    "definition": "To work out and explain the meaning of words, actions, or information.",
+    "sentence": "Readers may interpret the parent's cautious praise as a request for better evidence rather than a rejection of the project.",
+    "uk": "тлумачити; інтерпретувати"
+  },
+  {
+    "word": "clarify",
+    "domain": "general",
+    "level": "C1",
+    "definition": "To make a meaning, distinction, or expectation easier to understand precisely.",
+    "sentence": "The organisers should clarify whether consultation offers a chance to contribute or a guarantee that every idea will be used.",
+    "uk": "прояснювати; уточнювати"
+  },
+  {
+    "word": "refine",
+    "domain": "general",
+    "level": "C1",
+    "definition": "To improve an idea or method by making careful, specific changes.",
+    "sentence": "Feedback helped the class refine its question so that the survey measured access rather than enthusiasm alone.",
+    "uk": "удосконалювати; уточнювати"
+  },
+  {
+    "word": "qualify",
+    "domain": "general",
+    "level": "C1",
+    "definition": "To make a statement less absolute by adding a limit or condition.",
+    "sentence": "The authors qualify their claim by noting that the results apply only to the students who replied.",
+    "uk": "уточнювати твердження застереженням"
+  },
+  {
+    "word": "nevertheless",
+    "domain": "general",
+    "level": "C1",
+    "definition": "Used to introduce something that remains true in spite of a preceding point.",
+    "sentence": "The trial was too small to settle the question; nevertheless, it revealed a useful direction for further work.",
+    "uk": "утім; незважаючи на це"
+  },
+  {
+    "word": "otherwise",
+    "domain": "general",
+    "level": "C1",
+    "definition": "Used to describe what would happen if the preceding condition were not met.",
+    "sentence": "The review must include informal users; otherwise, a useful space may appear less valuable simply because few people book it.",
+    "uk": "інакше; в іншому разі"
+  },
+  {
+    "word": "frame",
+    "domain": "general",
+    "level": "C2",
+    "definition": "To present an issue through a particular perspective that shapes how it is understood.",
+    "sentence": "To frame the debate solely as a choice between speed and fairness is to overlook improvements that might serve both.",
+    "uk": "подавати питання в певному ракурсі"
+  },
+  {
+    "word": "warrant",
+    "domain": "general",
+    "level": "C2",
+    "definition": "To provide sufficient grounds for a particular conclusion or response.",
+    "sentence": "The uneven results warrant closer investigation, although they do not by themselves establish that the project has failed.",
+    "uk": "давати достатні підстави"
+  },
+  {
+    "word": "temper",
+    "domain": "general",
+    "level": "C2",
+    "definition": "To reduce the force of a judgement or feeling by balancing it with another consideration.",
+    "sentence": "The report should temper its optimism with recognition that the apparent improvement may partly reflect a change in measurement.",
+    "uk": "стримувати; пом'якшувати"
+  },
+  {
+    "word": "concede",
+    "domain": "general",
+    "level": "C2",
+    "definition": "To accept that an opposing point is valid without necessarily accepting the whole argument.",
+    "sentence": "We can concede that the slogan attracted attention without accepting that its promise was therefore justified.",
+    "uk": "визнавати слушність окремого заперечення"
+  },
+  {
+    "word": "reconcile",
+    "domain": "general",
+    "level": "C2",
+    "definition": "To find a way for apparently conflicting ideas or aims to fit together.",
+    "sentence": "The panel sought to reconcile its wish for clear criteria with the need to recognise leadership that takes less visible forms.",
+    "uk": "узгоджувати суперечливі погляди або цілі"
+  },
+  {
+    "word": "premise",
+    "domain": "general",
+    "level": "C2",
+    "definition": "A statement or assumption on which an argument is built.",
+    "sentence": "The proposal rests on the premise that more bookings indicate greater value, a connection the librarian has good reason to question.",
+    "uk": "вихідне положення; засновок"
+  },
+  {
+    "word": "nuance",
+    "domain": "general",
+    "level": "C2",
+    "definition": "A small but meaningful distinction in an idea, expression, or attitude.",
+    "sentence": "The revision preserves an essential nuance: incomplete evidence should not be mistaken for proof that nothing has changed.",
+    "uk": "нюанс; тонка смислова відмінність"
+  },
+  {
+    "word": "contingent",
+    "domain": "general",
+    "level": "C2",
+    "definition": "Dependent on a particular condition or circumstance.",
+    "sentence": "The committee's support is contingent on continued public access, so approval should not be read as an unconditional endorsement.",
+    "uk": "залежний від певної умови"
+  },
+  {
+    "word": "conversely",
+    "domain": "general",
+    "level": "C2",
+    "definition": "Used to introduce a situation or relationship that runs in the opposite direction.",
+    "sentence": "A popular activity may be poorly supported; conversely, a well-supported activity may attract few participants.",
+    "uk": "навпаки; у зворотному випадку"
+  },
+  {
+    "word": "arguably",
+    "domain": "general",
+    "level": "C2",
+    "definition": "Used to present a judgement as reasonably defensible while allowing disagreement.",
+    "sentence": "The revised invitation is arguably more ambitious because it asks visitors to notice the woodland without promising a particular sighting.",
+    "uk": "можна обґрунтовано стверджувати, що"
+  }
+]

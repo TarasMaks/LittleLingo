@@ -1,0 +1,290 @@
+[
+  {
+    "word": "seed",
+    "domain": "nature",
+    "level": "A2",
+    "definition": "A small part of a plant that can grow into a new plant.",
+    "sentence": "We put one seed in each pot and added water.",
+    "uk": "насінина"
+  },
+  {
+    "word": "leaf",
+    "domain": "nature",
+    "level": "A2",
+    "definition": "A usually flat, green part of a plant that uses light to help make food.",
+    "sentence": "There is a small insect under this leaf.",
+    "uk": "листок"
+  },
+  {
+    "word": "grow",
+    "domain": "nature",
+    "level": "A2",
+    "definition": "To become bigger as a living thing develops.",
+    "sentence": "These plants grow quickly beside the sunny window.",
+    "uk": "рости"
+  },
+  {
+    "word": "shelter",
+    "domain": "nature",
+    "level": "B1",
+    "definition": "A place that gives protection from bad weather or danger.",
+    "sentence": "The thick hedge provides shelter for small birds during storms.",
+    "uk": "укриття"
+  },
+  {
+    "word": "habitat",
+    "domain": "nature",
+    "level": "B1",
+    "definition": "The kind of place where a plant or animal normally lives.",
+    "sentence": "Our pond is a habitat for insects and frogs.",
+    "uk": "середовище існування"
+  },
+  {
+    "word": "observe",
+    "domain": "nature",
+    "level": "B1",
+    "definition": "To watch something carefully in order to learn about it.",
+    "sentence": "We observe the birds from a distance and record what they do.",
+    "uk": "спостерігати"
+  },
+  {
+    "word": "species",
+    "domain": "nature",
+    "level": "B2",
+    "definition": "A group of closely related living things recognised as one kind.",
+    "sentence": "The survey recorded six species of butterfly, although some were seen only once.",
+    "uk": "вид"
+  },
+  {
+    "word": "ecosystem",
+    "domain": "nature",
+    "level": "B2",
+    "definition": "Living things and their physical surroundings, considered together with their connections.",
+    "sentence": "A pond is an ecosystem in which changes to the water can affect many living things.",
+    "uk": "екосистема"
+  },
+  {
+    "word": "conserve",
+    "domain": "nature",
+    "level": "B2",
+    "definition": "To protect a natural resource or use it carefully so it remains available.",
+    "sentence": "The garden club collects rainwater to conserve the school's drinking water.",
+    "uk": "зберігати; ощадливо використовувати"
+  },
+  {
+    "word": "biodiversity",
+    "domain": "nature",
+    "level": "C1",
+    "definition": "The variety of living things, including differences within species and among ecosystems.",
+    "sentence": "Planting several native species may support biodiversity, but the class will monitor which organisms actually appear.",
+    "uk": "біорізноманіття"
+  },
+  {
+    "word": "resilience",
+    "domain": "nature",
+    "level": "C1",
+    "definition": "The capacity of a living system to withstand disturbance or recover while retaining its main functions.",
+    "sentence": "The pond's resilience depends on more than its appearance immediately after a dry summer.",
+    "uk": "стійкість; здатність відновлюватися"
+  },
+  {
+    "word": "interdependence",
+    "domain": "nature",
+    "level": "C2",
+    "definition": "A relationship in which different living things or systems depend on one another.",
+    "sentence": "The display illustrates interdependence: protecting one species may require attending to relationships that a simple animal count overlooks.",
+    "uk": "взаємозалежність"
+  },
+  {
+    "word": "screen",
+    "domain": "technology",
+    "level": "A2",
+    "definition": "The part of a device that shows pictures or text.",
+    "sentence": "Touch the picture on the screen to open the story.",
+    "uk": "екран"
+  },
+  {
+    "word": "save",
+    "domain": "technology",
+    "level": "A2",
+    "definition": "To store work on a device so you can use it again.",
+    "sentence": "Please save your drawing before you close the app.",
+    "uk": "зберігати"
+  },
+  {
+    "word": "search",
+    "domain": "technology",
+    "level": "A2",
+    "definition": "To look for information by entering words into a digital tool.",
+    "sentence": "You can search for a book by typing its title.",
+    "uk": "шукати"
+  },
+  {
+    "word": "device",
+    "domain": "technology",
+    "level": "B1",
+    "definition": "A piece of equipment made for a particular purpose.",
+    "sentence": "This small device measures the temperature beside our plants.",
+    "uk": "пристрій"
+  },
+  {
+    "word": "sensor",
+    "domain": "technology",
+    "level": "B1",
+    "definition": "A part of a device that detects a condition, such as light or movement.",
+    "sentence": "The robot stops when its sensor detects an object in front of it.",
+    "uk": "датчик"
+  },
+  {
+    "word": "experiment",
+    "domain": "technology",
+    "level": "B1",
+    "definition": "A planned test used to investigate a question or idea.",
+    "sentence": "In our experiment, we compared how quickly ice melted in two different places.",
+    "uk": "експеримент; дослід"
+  },
+  {
+    "word": "variable",
+    "domain": "technology",
+    "level": "B2",
+    "definition": "A quantity or condition that can change or be changed in an investigation.",
+    "sentence": "We changed one variable, the amount of light, while keeping the pots and soil the same.",
+    "uk": "змінна; змінний чинник"
+  },
+  {
+    "word": "prototype",
+    "domain": "technology",
+    "level": "B2",
+    "definition": "An early version of a design made so its ideas can be tested.",
+    "sentence": "Our cardboard prototype helped us test the bridge's shape before building a stronger version.",
+    "uk": "прототип"
+  },
+  {
+    "word": "reliable",
+    "domain": "technology",
+    "level": "B2",
+    "definition": "Working consistently well enough to be depended on for a particular purpose.",
+    "sentence": "We repeated the measurements to check whether the sensor was reliable under the same conditions.",
+    "uk": "надійний"
+  },
+  {
+    "word": "algorithm",
+    "domain": "technology",
+    "level": "C1",
+    "definition": "An ordered set of instructions for completing a task or solving a problem.",
+    "sentence": "The recommendation algorithm favours popular books, which may make less familiar authors harder to discover.",
+    "uk": "алгоритм"
+  },
+  {
+    "word": "reproducible",
+    "domain": "technology",
+    "level": "C1",
+    "definition": "Able to be produced again when the stated procedure and conditions are followed.",
+    "sentence": "The class documented its instructions carefully so the computer-generated chart would be reproducible.",
+    "uk": "відтворюваний"
+  },
+  {
+    "word": "extrapolate",
+    "domain": "technology",
+    "level": "C2",
+    "definition": "To estimate beyond the available observations by extending a pattern found in them.",
+    "sentence": "We should not extrapolate a robot's success on an empty classroom floor to a crowded corridor without examining the new conditions.",
+    "uk": "екстраполювати; переносити висновок за межі наявних даних"
+  },
+  {
+    "word": "borrow",
+    "domain": "community",
+    "level": "A2",
+    "definition": "To use something belonging to someone else and return it later.",
+    "sentence": "You can borrow this library book for two weeks.",
+    "uk": "позичати на певний час"
+  },
+  {
+    "word": "invite",
+    "domain": "community",
+    "level": "A2",
+    "definition": "To ask someone to come to an event or join an activity.",
+    "sentence": "Let's invite the new student to join our game.",
+    "uk": "запрошувати"
+  },
+  {
+    "word": "share",
+    "domain": "community",
+    "level": "A2",
+    "definition": "To use or enjoy something together with other people.",
+    "sentence": "Our groups share the art room on Fridays.",
+    "uk": "користуватися разом; ділитися"
+  },
+  {
+    "word": "volunteer",
+    "domain": "community",
+    "level": "B1",
+    "definition": "A person who chooses to help with an activity without being paid.",
+    "sentence": "A volunteer helped us organise the books for the school swap.",
+    "uk": "волонтер; волонтерка"
+  },
+  {
+    "word": "survey",
+    "domain": "community",
+    "level": "B1",
+    "definition": "A set of questions used to collect information from a group of people.",
+    "sentence": "The class survey asked which lunchtime clubs students wanted to try.",
+    "uk": "опитування"
+  },
+  {
+    "word": "access",
+    "domain": "community",
+    "level": "B1",
+    "definition": "The opportunity or ability to enter a place or use something.",
+    "sentence": "Keeping the library open at lunch gives more students access to its books.",
+    "uk": "доступ"
+  },
+  {
+    "word": "represent",
+    "domain": "community",
+    "level": "B2",
+    "definition": "To speak or act on behalf of a person or group.",
+    "sentence": "Council members should listen to classmates with different views if they want to represent them fairly.",
+    "uk": "представляти"
+  },
+  {
+    "word": "proposal",
+    "domain": "community",
+    "level": "B2",
+    "definition": "A suggested plan presented for people to consider.",
+    "sentence": "Our proposal explains how a quiet reading corner could share the room with other activities.",
+    "uk": "пропозиція; запропонований план"
+  },
+  {
+    "word": "compromise",
+    "domain": "community",
+    "level": "B2",
+    "definition": "An agreement reached when people each adjust some of what they wanted.",
+    "sentence": "The clubs reached a compromise by using the hall on alternate weeks.",
+    "uk": "компроміс"
+  },
+  {
+    "word": "consensus",
+    "domain": "community",
+    "level": "C1",
+    "definition": "Broad agreement within a group about a view or course of action.",
+    "sentence": "A consensus emerged in favour of the garden, although members still disagreed about its design.",
+    "uk": "консенсус; загальна згода"
+  },
+  {
+    "word": "accountability",
+    "domain": "community",
+    "level": "C1",
+    "definition": "Responsibility for explaining decisions and answering for their results.",
+    "sentence": "Publishing the council's decisions supports accountability only if students can also ask how those decisions were reached.",
+    "uk": "підзвітність"
+  },
+  {
+    "word": "deliberation",
+    "domain": "community",
+    "level": "C2",
+    "definition": "Careful consideration and discussion before a judgement or decision.",
+    "sentence": "The panel's deliberation became more useful when it examined what each candidate had enabled others to achieve, rather than rewarding confidence alone.",
+    "uk": "ретельне обмірковування й обговорення"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "lessonId": "grammar-a2-past-actions",
+    "explanation": "Use the past continuous for an action that was already happening at a time in the past. Make it with was or were plus a verb ending in -ing. Use the past simple for a finished action. When a short event happens during a longer action, the longer action often uses the past continuous.",
+    "examples": [
+      "I was feeding the rabbit when my phone rang. The feeding started first; the phone rang during it.",
+      "At four o'clock, the children were building a nest box. They finished it at five. Were building shows the action happening; finished shows its end."
+    ],
+    "pitfall": "Do not say the children was; use were with a plural subject."
+  },
+  {
+    "lessonId": "grammar-a2-comparisons",
+    "explanation": "Use a comparative to compare two things. Short adjectives often take -er; longer adjectives usually use more. Put than before the second thing. Use a superlative to show that one thing has the highest or lowest quality in a group. Short adjectives often take -est; longer ones use most. Usually put the before a superlative.",
+    "examples": [
+      "The blue bag is lighter than the red bag. Lighter compares the weight of two bags.",
+      "This is the most comfortable chair in our classroom. Most comfortable compares this chair with all the classroom chairs."
+    ],
+    "pitfall": "Use one comparison form: say lighter, not more lighter."
+  },
+  {
+    "lessonId": "grammar-a2-quantifiers",
+    "explanation": "We can count some things, like carrots. Other words, like milk, do not usually have a plural form. Use many and a few with plural things you can count. Use much and a little with things you cannot count. A few and a little mean some. Much and many are common in questions and negative sentences.",
+    "examples": [
+      "There are a few strawberries in the bowl. We can count strawberries, and a few means a small number.",
+      "There is a little milk, but there is not much juice. Milk and juice are not counted as separate things here."
+    ],
+    "pitfall": "Match the phrase to the noun: say a few biscuits, but a little flour."
+  },
+  {
+    "lessonId": "grammar-a2-going-to",
+    "explanation": "Use be going to to talk about a plan you have already made. Choose am, is or are for the person, then add going to and the basic verb form. Put not after am, is or are to make a negative. For a question, put am, is or are before the person.",
+    "examples": [
+      "I am going to paint a poster on Saturday. This is my plan, so I use am going to before paint.",
+      "Is Sam going to bring his camera? No, he is not going to bring it. The question puts is first; the negative puts not after is."
+    ],
+    "pitfall": "Keep the verb after going to in its basic form: going to help, not going to helping."
+  },
+  {
+    "lessonId": "grammar-b1-perfect-and-past",
+    "explanation": "Use the present perfect to connect a past action or situation to now. Form it with have or has and a past participle. It often describes experience, results or a period that continues. Use the past simple when you place an event at a finished past time. Time expressions help the reader understand which meaning you intend.",
+    "examples": [
+      "Lena has collected six leaves so far today. Today is still continuing, and the number describes her result up to now.",
+      "Lena collected two red leaves on Monday. Monday is a finished time, so the sentence uses the past simple."
+    ],
+    "pitfall": "Do not combine the present perfect with a finished time such as last Friday; use the past simple."
+  },
+  {
+    "lessonId": "grammar-b1-conditionals",
+    "explanation": "Use the first conditional for a realistic future possibility: if plus present simple, followed by will and a basic verb. Use the second conditional for an imagined or less likely situation: if plus past simple, followed by would and a basic verb. In the second conditional, the past form usually shows distance from reality, not past time.",
+    "examples": [
+      "If the bus arrives early, we will visit the science display first. An early arrival is a real possibility in our plan.",
+      "If our classroom had a balcony, we would grow more flowers. It does not have one; we are imagining a different situation now."
+    ],
+    "pitfall": "In these standard patterns, put will or would in the result clause, not after if."
+  },
+  {
+    "lessonId": "grammar-b1-relative-clauses",
+    "explanation": "A defining relative clause identifies the person, thing or place you mean. Use who or that for people, and which or that for things. Use where when the meaning is in or at that place. Keep the clause next to the noun it describes. Defining clauses usually have no commas because their information is needed to identify the noun.",
+    "examples": [
+      "The girl who designed our poster is in Year Six. Who designed our poster tells us which girl the speaker means.",
+      "This is the kitchen where we prepare snacks. Where means in this kitchen; we is still the subject of prepare."
+    ],
+    "pitfall": "Do not repeat the subject: say the boy who helps us, not the boy who he helps us."
+  },
+  {
+    "lessonId": "grammar-b1-passive",
+    "explanation": "Use the passive when you want to focus on the person or thing receiving an action. Form it with be and a past participle. Use am, is or are for present routines, and was or were for past events. Match be to the subject. Add by and the agent when it matters who performs the action.",
+    "examples": [
+      "The classroom windows are cleaned every month. The windows receive the action, and are cleaned describes a routine.",
+      "A new bench was built by the craft club last term. Was built places the action in the past; by names the group that did it."
+    ],
+    "pitfall": "After be, use the past participle, not an -ing form: is made, not is making, when the subject receives the action."
+  },
+  {
+    "lessonId": "grammar-b2-reported-speech",
+    "explanation": "Reporting speech means retelling a message from your own viewpoint. After a past reporting verb, conventional backshift moves present forms into the past, present perfect into past perfect, and will into would. Adjust pronouns and time expressions when the viewpoint changes. Reported questions use statement word order, with a question word or if/whether. Backshift is not always necessary when information remains true, but follow it when the task requests it.",
+    "examples": [
+      "Leila said, 'I am testing a bridge.' → Leila said that she was testing a bridge. The direct present becomes past continuous in this later report, and 'I' becomes 'she'.",
+      "'When will the club meet?' → I asked when the club would meet. The direct question becomes an embedded question with statement order; 'will' shifts to 'would'."
+    ],
+    "pitfall": "Do not retain question order in a reported question: use 'where the group went', not 'where did the group go'."
+  },
+  {
+    "lessonId": "grammar-b2-third-conditional",
+    "explanation": "The third conditional imagines a past that did not happen and a possible result within that alternative past. Use if plus past perfect for the condition, then would have plus a past participle for the imagined result. Could have describes a possible ability or opportunity, while might have makes the result less certain. State the real events first when readers need help understanding what your imagined alternative changes.",
+    "examples": [
+      "We forgot the direction signs, so visitors got lost. → If we had remembered the signs, visitors would have found the room. The sentence imagines changing both the past action and its result.",
+      "The team missed the bus. → If the team had left earlier, it might have caught the bus. 'Might have' presents catching it as a possibility; 'would have' presents it as the expected result."
+    ],
+    "pitfall": "Use 'had checked' in the ordinary if-clause, not 'would have checked'; reserve 'would have' for the result."
+  },
+  {
+    "lessonId": "grammar-b2-past-deduction",
+    "explanation": "Modal perfect forms express how certain we are about a past event. Must have plus a past participle gives a strong positive deduction; might have gives a possibility; cannot have rules an event out on the available evidence. These forms express an interpretation, not an instruction. Add been and an -ing form when the deduction concerns an activity in progress at a particular past moment. Match your certainty to the clues.",
+    "examples": [
+      "'Eva must have taken the wrong map' draws a strong conclusion about an earlier action. 'Eva might have taken the wrong map' leaves it as one possible explanation.",
+      "'The robot cannot have been charging at noon; it was unplugged' rules out a past activity. 'The robot should have been charging at noon' instead describes what was expected or advisable."
+    ],
+    "pitfall": "'Must have returned' is a past deduction; 'must return' normally expresses a present or future requirement in this context."
+  },
+  {
+    "lessonId": "grammar-b2-concession",
+    "explanation": "A concession recognises a difficulty or contrasting fact while keeping the main point. Although and even though introduce clauses with a subject and verb; even though usually makes the contrast stronger. Despite introduces a noun phrase or an -ing form, not an ordinary finite clause. You can also use despite the fact that before a clause. When changing structures, preserve the contrast and make clear who performs any action.",
+    "examples": [
+      "Although the route was long, everyone enjoyed the walk. → Despite the long route, everyone enjoyed the walk. The contrast stays the same, but a clause becomes a noun phrase.",
+      "Even though the club had limited equipment, it built a working model. → Despite having limited equipment, the club built a working model. 'Even though' emphasises the surprising success; both versions identify the club as having the equipment."
+    ],
+    "pitfall": "Avoid 'despite of' and 'despite it was cold'; use 'despite the cold' or 'although it was cold'."
+  },
+  {
+    "lessonId": "grammar-c1-inversion",
+    "explanation": "In formal writing, fronting expressions such as never, rarely, not until or only after can give a statement extra emphasis. This often requires an auxiliary before the subject in the main clause. Keep an existing auxiliary, or add do, does or did for a simple lexical verb. When 'not until' or 'only after' introduces a clause, that introductory clause keeps normal word order; the inversion belongs to the main clause.",
+    "examples": [
+      "We had never seen the river so clear. → Never had we seen the river so clear. Moving 'never' first adds emphasis and places the existing auxiliary 'had' before 'we'.",
+      "The team understood the problem only after it tested the door. → Only after it tested the door did the team understand the problem. 'It tested' stays in normal order; the main clause gains 'did' and a base verb."
+    ],
+    "pitfall": "After 'did', use the base verb: 'Only then did we understand', not 'did we understood'."
+  },
+  {
+    "lessonId": "grammar-c1-clefts",
+    "explanation": "Cleft sentences separate a message into parts to make one detail prominent. An it-cleft uses it is or it was, a focused expression, and a following clause introduced by that or sometimes who. A wh-cleft commonly begins with a what-clause and places the focused information after be. Use either structure to answer an implied question or correct a misunderstanding. Choose tense deliberately and keep the original message's essential relationships intact.",
+    "examples": [
+      "Jo found the missing folder on Wednesday. → It was Jo who found the missing folder on Wednesday. This highlights the person; 'It was on Wednesday that Jo found the missing folder' instead highlights the time.",
+      "The project lacked a clear deadline. → What the project lacked was a clear deadline. The neutral statement becomes an answer to 'What was missing?', with the key information placed at the end."
+    ],
+    "pitfall": "Do not add a second subject in a wh-cleft: 'What we wanted was a fair trial', not 'What we wanted it was a fair trial'."
+  },
+  {
+    "lessonId": "grammar-c1-participle-clauses",
+    "explanation": "Participle clauses make related information more concise. An -ing clause can describe an accompanying action or provide background, while having plus a past participle marks an action completed before the main one. In the usual introductory pattern, the understood subject must match the main clause's subject. Check who performs both actions before shortening a sentence. Concision is useful only when readers can still identify the actor and the time relationship.",
+    "examples": [
+      "The pupils listened to the stream while they sketched it. → Listening to the stream, the pupils sketched its winding course. The pupils perform both actions, which happen together.",
+      "The guide counted the group first and then opened the gate. → Having counted the group, the guide opened the gate. 'Having counted' explicitly places the completed count before the opening."
+    ],
+    "pitfall": "Avoid a dangling actor: 'Carrying a torch, the tunnel looked brighter' wrongly makes the tunnel the carrier; name the person in the main clause."
+  },
+  {
+    "lessonId": "grammar-c1-hedging-nominalisation",
+    "explanation": "Hedging adjusts a claim to the strength of its evidence. Structures such as suggest that, appear to and may have leave room for uncertainty without abandoning a useful conclusion. Nominalisation turns an action or quality into a noun phrase, helping you refer to it as a topic. Combine these tools carefully: a more formal noun does not make a claim more certain, and dense noun phrases can hide who acted.",
+    "examples": [
+      "'The quieter room improved concentration' makes a direct causal claim. 'The comments suggest that the quieter room may have improved concentration' identifies the evidence and treats the proposed cause cautiously.",
+      "The team reduced the noise, and attendance rose. → The reduction in noise coincided with an increase in attendance. The actions become noun phrases, while 'coincided with' records timing without proving causation."
+    ],
+    "pitfall": "Keep noun forms and agency clear: use 'an improvement in access', not 'an improve in access', and name who made the change when it matters."
+  },
+  {
+    "lessonId": "grammar-c2-subtle-modality",
+    "explanation": "A small change in a modal expression can change what we understand about the past. 'Need not have' plus a past participle normally presents a completed action as unnecessary. 'Did not need to' states that there was no necessity; add context to establish whether the action happened. 'Should have' plus a past participle can express a past recommendation that was not followed, though it can also express an expectation. Make the surrounding facts clear before choosing the form, rather than treating these expressions as interchangeable negatives.",
+    "examples": [
+      "We need not have watered the seedlings: the caretaker had already done so. We watered them, but the extra watering was unnecessary.",
+      "We did not need to water the seedlings, so we left them alone. We should have checked their labels, but we forgot: that useful action remained undone."
+    ],
+    "pitfall": "Do not use 'need not have' for an action you explicitly say never happened. 'I need not have packed a torch, so I left it at home' contradicts itself in the intended completed-action reading."
+  },
+  {
+    "lessonId": "grammar-c2-advanced-conditionals",
+    "explanation": "Choose conditional forms by the time of each idea, not by a memorised sentence pattern alone. A past condition with a present consequence takes 'if' plus past perfect, followed by 'would', 'could' or 'might' plus a base verb. Formal inversion removes 'if': move 'had' before the subject for a past counterfactual, or use 'were' before the subject with 'to' for a tentative future situation. The result clause still follows its own time and meaning. Inversion changes the register without changing who acts or when.",
+    "examples": [
+      "Had we repaired the butterfly shelter yesterday, it would be ready now. The repair did not happen in the past; its consequence matters in the present.",
+      "Were the nature club to receive another planter, it could grow more herbs next spring. The condition concerns a possible future, rather than an unreal past."
+    ],
+    "pitfall": "Do not keep 'if' after introducing conditional inversion: 'If had we repaired it' is incorrect. Choose either 'If we had repaired it' or 'Had we repaired it'."
+  },
+  {
+    "lessonId": "grammar-c2-scope-ambiguity",
+    "explanation": "Scope is the part of a statement affected by a word such as 'only' or 'not'. For clear written English, place 'only' immediately before the person, thing or phrase you intend to restrict. Moving it can change the claim while leaving every other word unchanged. 'Not all' rejects a claim about every member of a group; it does not, by itself, guarantee that some members agree. If the result was mixed, explicitly state both sides. Avoid 'all ... not' when its intended meaning could be misunderstood.",
+    "examples": [
+      "Only Lena chose the pear: nobody else chose it. Lena chose only the pear: she chose no other fruit, but other children may have chosen pears too.",
+      "Not all children enjoyed the porridge. To report a known mixed response precisely, add: Six enjoyed it, while four preferred toast."
+    ],
+    "pitfall": "Do not rewrite 'Not all children chose grapes' as 'No children chose grapes'. The first rejects a universal claim; the second says that nobody chose them."
+  },
+  {
+    "lessonId": "grammar-c2-information-structure",
+    "explanation": "Information structure helps a reader follow complex ideas. With extraposition, anticipatory 'it' fills the subject position while a substantial infinitive or whether-clause appears later. This often makes an evaluation easier to process. Contrastive fronting moves an object to the beginning so that two decisions can be compared. Keep the real subject and verb after each fronted object: the object has not become the person making the decision. Both structures suit careful formal writing, but use fronting selectively and name the decision-maker when a pronoun would be unclear.",
+    "examples": [
+      "Whether the new playground sign is visible from the gate is unclear. It is unclear whether the new playground sign is visible from the gate. The second version postpones the long clause.",
+      "The brighter paint, the pupil council supports; the smaller lettering, it rejects. The paint and lettering are the objects under discussion; the council makes both judgements."
+    ],
+    "pitfall": "Do not reverse the roles when fronting an object: 'The brighter paint supports the council' makes the paint the subject and changes the meaning."
+  }
+]

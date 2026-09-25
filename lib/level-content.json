@@ -1,0 +1,1301 @@
+[
+  {
+    "id": "a2-animals",
+    "level": "A2",
+    "topic": "animals",
+    "title": "A Quiet Place for Hedgehogs",
+    "objective": "CEFR-inspired sample lesson: describe a simple change in a garden and explain its purpose.",
+    "words": [
+      "hedgehog",
+      "shelter",
+      "quiet",
+      "leave",
+      "safe"
+    ],
+    "passage": "Last spring, our class cleaned the school garden. We put all the leaves into bags. Then a visitor told us that hedgehogs sleep under leaves and branches. This autumn, we will leave one corner of the garden untidy. We will build a small shelter there, too. Some children want to put food beside the playground, but our teacher suggests the quiet corner instead. We hope the animals will visit when everyone has gone home.",
+    "listeningPassage": "Yesterday, Mia and Ben watched birds from their kitchen window. Ben wanted to open the window for a better photo, but Mia asked him to wait. The birds were eating just outside. Ben took his photo through the glass, and the birds stayed for ten more minutes.",
+    "activities": [
+      {
+        "id": "a2-animals-reading",
+        "kind": "check",
+        "skill": "reading",
+        "item": "Read and infer",
+        "prompt": "Why does the teacher prefer the corner to the playground?",
+        "uk": "Прочитай текст і зроби простий висновок. Вибери найкращу відповідь.",
+        "audio": "",
+        "answer": "The animals will have a quieter place.",
+        "choices": [
+          "The children can play there every day.",
+          "The animals will have a quieter place.",
+          "The corner is easier to clean."
+        ],
+        "hint": "Compare a busy playground with the place the teacher suggests.",
+        "passage": "Last spring, our class cleaned the school garden. We put all the leaves into bags. Then a visitor told us that hedgehogs sleep under leaves and branches. This autumn, we will leave one corner of the garden untidy. We will build a small shelter there, too. Some children want to put food beside the playground, but our teacher suggests the quiet corner instead. We hope the animals will visit when everyone has gone home."
+      },
+      {
+        "id": "a2-animals-listening",
+        "kind": "listen",
+        "skill": "listening",
+        "item": "Listen for meaning",
+        "prompt": "Why did Mia ask Ben to keep the window closed?",
+        "uk": "Прослухай запис і вибери найкращу відповідь. За потреби прослухай ще раз.",
+        "audio": "Yesterday, Mia and Ben watched birds from their kitchen window. Ben wanted to open the window for a better photo, but Mia asked him to wait. The birds were eating just outside. Ben took his photo through the glass, and the birds stayed for ten more minutes.",
+        "answer": "She did not want to frighten the birds.",
+        "choices": [
+          "She thought it was too cold.",
+          "She wanted to clean the glass first.",
+          "She did not want to frighten the birds."
+        ],
+        "hint": "Listen to what was happening just outside the window."
+      },
+      {
+        "id": "a2-animals-language",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Choose the right wording",
+        "prompt": "You are explaining the class plan for autumn. Which sentence fits?",
+        "uk": "Прочитай ситуацію й вибери речення, яке їй відповідає.",
+        "audio": "",
+        "answer": "We are going to leave some leaves for the hedgehogs.",
+        "choices": [
+          "We are going to leave some leaves for the hedgehogs.",
+          "We left some leaves for the hedgehogs last autumn.",
+          "We leave some leaves yesterday for the hedgehogs."
+        ],
+        "hint": "The plan is for the future. Look for the form that expresses a future plan."
+      },
+      {
+        "id": "a2-animals-writing",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Write your response",
+        "prompt": "Describe a place where a small animal could feel safe. Say what is there and one thing you will do to help.",
+        "uk": "Напиши відповідь англійською мовою обсягом 20–40 слів. Виконай усі частини завдання й перевір відповідь за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Use simple complete sentences. Check that you have included both the description and your idea.",
+        "minWords": 20,
+        "maxWords": 40,
+        "rubric": [
+          "Describe the place using at least two clear details.",
+          "Include one suitable future action to help an animal.",
+          "Use understandable simple sentences, including a future form."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a2-food",
+    "level": "A2",
+    "topic": "food",
+    "title": "The Lunch That Came Home",
+    "objective": "CEFR-inspired sample lesson: describe a past lunch and give a simple plan to reduce waste.",
+    "words": [
+      "leftovers",
+      "portion",
+      "container",
+      "share",
+      "waste"
+    ],
+    "passage": "On Monday, Leo took two large sandwiches and an apple to school. At lunchtime, he ate one sandwich and the apple. He brought the other sandwich home in its container. His dad asked, 'Was lunch too short?' Leo shook his head. 'I had lots of time, but I wasn't very hungry.' On Tuesday, Leo packed one sandwich and a small banana. He kept an extra snack in his bag for after football practice.",
+    "listeningPassage": "Our class made fruit salad today. We had three apples, two bananas and a big bowl of grapes. We cut all the apples and bananas, but we used only half the grapes. We put the other grapes in a box in the fridge. Tomorrow, we will eat them at break time.",
+    "activities": [
+      {
+        "id": "a2-food-reading",
+        "kind": "check",
+        "skill": "reading",
+        "item": "Read and infer",
+        "prompt": "What did Leo learn from Monday's lunch?",
+        "uk": "Прочитай текст і зроби простий висновок. Вибери найкращу відповідь.",
+        "audio": "",
+        "answer": "A smaller lunch could be enough for him.",
+        "choices": [
+          "He needed more time to eat.",
+          "He should stop eating fruit.",
+          "A smaller lunch could be enough for him."
+        ],
+        "hint": "Notice why he did not finish his lunch and what he packed next.",
+        "passage": "On Monday, Leo took two large sandwiches and an apple to school. At lunchtime, he ate one sandwich and the apple. He brought the other sandwich home in its container. His dad asked, 'Was lunch too short?' Leo shook his head. 'I had lots of time, but I wasn't very hungry.' On Tuesday, Leo packed one sandwich and a small banana. He kept an extra snack in his bag for after football practice."
+      },
+      {
+        "id": "a2-food-listening",
+        "kind": "listen",
+        "skill": "listening",
+        "item": "Listen for meaning",
+        "prompt": "What will the class do with the grapes they did not use?",
+        "uk": "Прослухай запис і вибери найкращу відповідь. За потреби прослухай ще раз.",
+        "audio": "Our class made fruit salad today. We had three apples, two bananas and a big bowl of grapes. We cut all the apples and bananas, but we used only half the grapes. We put the other grapes in a box in the fridge. Tomorrow, we will eat them at break time.",
+        "answer": "Eat them at break time tomorrow.",
+        "choices": [
+          "Eat them at break time tomorrow.",
+          "Add them to the fruit salad today.",
+          "Take them home after school today."
+        ],
+        "hint": "Listen for the plan after the grapes go into the fridge."
+      },
+      {
+        "id": "a2-food-language",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Choose the right wording",
+        "prompt": "Leo is telling a friend about Monday. Which sentence describes what happened?",
+        "uk": "Прочитай ситуацію й вибери речення, яке їй відповідає.",
+        "audio": "",
+        "answer": "I brought one sandwich home because I wasn't hungry.",
+        "choices": [
+          "I bring one sandwich home yesterday.",
+          "I brought one sandwich home because I wasn't hungry.",
+          "I will bring one sandwich home last Monday."
+        ],
+        "hint": "The event is finished, so both main verbs need past forms."
+      },
+      {
+        "id": "a2-food-writing",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Write your response",
+        "prompt": "Write about a real or invented lunch yesterday. Say what you ate and what you will pack next time to avoid waste.",
+        "uk": "Напиши відповідь англійською мовою обсягом 20–40 слів. Виконай усі частини завдання й перевір відповідь за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Use simple complete sentences. Check that you have included both the description and your idea.",
+        "minWords": 20,
+        "maxWords": 40,
+        "rubric": [
+          "Name food from the past lunch.",
+          "Give one clear plan that could reduce waste.",
+          "Use understandable past and future forms."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a2-school",
+    "level": "A2",
+    "topic": "school",
+    "title": "A Friend for the First Day",
+    "objective": "CEFR-inspired sample lesson: explain a simple school situation and make a helpful suggestion.",
+    "words": [
+      "entrance",
+      "nervous",
+      "noticeboard",
+      "join",
+      "welcome"
+    ],
+    "passage": "A new student, Sara, joined our class on Wednesday. She found the classroom easily, but at break she stayed beside the door. Our playground has three different areas, and there were no signs. Tom invited her to play a game. Later, Sara said she wanted to join in but did not know where to go. Our class is making a colourful map. We will put it near the entrance so new students can find games and quiet places.",
+    "listeningPassage": "The art club usually meets in Room Twelve. This Friday, that room will be used for a music lesson, so the club will meet in the library. Please bring your pencils. You do not need paper because Ms Green has some. Meet her outside the library at three o'clock.",
+    "activities": [
+      {
+        "id": "a2-school-reading",
+        "kind": "check",
+        "skill": "reading",
+        "item": "Read and infer",
+        "prompt": "What does the story suggest about Sara?",
+        "uk": "Прочитай текст і зроби простий висновок. Вибери найкращу відповідь.",
+        "audio": "",
+        "answer": "She wanted to join others but was unsure where to go.",
+        "choices": [
+          "She wanted to join others but was unsure where to go.",
+          "She preferred to spend every break on her own.",
+          "She thought the playground games were too difficult."
+        ],
+        "hint": "Read Sara's explanation. Standing by the door did not mean she wanted to be alone.",
+        "passage": "A new student, Sara, joined our class on Wednesday. She found the classroom easily, but at break she stayed beside the door. Our playground has three different areas, and there were no signs. Tom invited her to play a game. Later, Sara said she wanted to join in but did not know where to go. Our class is making a colourful map. We will put it near the entrance so new students can find games and quiet places."
+      },
+      {
+        "id": "a2-school-listening",
+        "kind": "listen",
+        "skill": "listening",
+        "item": "Listen for meaning",
+        "prompt": "What is different about the art club this Friday?",
+        "uk": "Прослухай запис і вибери найкращу відповідь. За потреби прослухай ще раз.",
+        "audio": "The art club usually meets in Room Twelve. This Friday, that room will be used for a music lesson, so the club will meet in the library. Please bring your pencils. You do not need paper because Ms Green has some. Meet her outside the library at three o'clock.",
+        "answer": "It will meet in a different place.",
+        "choices": [
+          "Students need to bring their own paper.",
+          "It will meet in a different place.",
+          "It will start after a music performance."
+        ],
+        "hint": "Listen for what will happen because Room Twelve is being used."
+      },
+      {
+        "id": "a2-school-language",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Choose the right wording",
+        "prompt": "A new student says, 'I don't know where the library is.' Which reply offers useful help?",
+        "uk": "Прочитай ситуацію й вибери речення, яке їй відповідає.",
+        "audio": "",
+        "answer": "Let's go together. I can show you.",
+        "choices": [
+          "You went to the library yesterday.",
+          "You must like reading very much.",
+          "Let's go together. I can show you."
+        ],
+        "hint": "Choose an invitation that solves the student's problem."
+      },
+      {
+        "id": "a2-school-writing",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Write your response",
+        "prompt": "Write a welcome message to a new student. Describe one place at school and suggest something you can do together.",
+        "uk": "Напиши відповідь англійською мовою обсягом 20–40 слів. Виконай усі частини завдання й перевір відповідь за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Use simple complete sentences. Check that you have included both the description and your idea.",
+        "minWords": 20,
+        "maxWords": 40,
+        "rubric": [
+          "Include a friendly welcome.",
+          "Describe one school place and a shared activity.",
+          "Use clear simple sentences and a suitable suggestion."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b1-animals",
+    "level": "B1",
+    "topic": "animals",
+    "title": "The Pond That Looked Empty",
+    "objective": "CEFR-inspired sample lesson: connect observations, explain a mistaken first impression, and suggest a practical next step.",
+    "words": [
+      "surface",
+      "observe",
+      "disturb",
+      "evidence",
+      "patient"
+    ],
+    "passage": "When our science group first visited the new pond, we thought the project had failed. We could not see a single frog, and the water looked still. Ellie suggested adding fish to make the pond more interesting. Before we decided, the gardener gave us a shallow tray and asked us to look carefully at a little pond water. Within a minute, we noticed tiny creatures moving around. Later, a dragonfly landed on a reed. We left without adding anything. In our report, we included drawings of what we had found and explained why we would return at different times of day. The pond had not changed during our visit, but our idea of it had.",
+    "listeningPassage": "We planned to count butterflies in the park on Saturday morning, but it was cold and windy. After twenty minutes, we had seen only one. Sam said there must be fewer butterflies this year. Our group leader suggested returning on a warm afternoon before reaching that conclusion. She explained that butterflies are often easier to see in warm, calm weather. We agreed to record the weather beside every count, so we could compare our visits more fairly.",
+    "activities": [
+      {
+        "id": "b1-animals-reading",
+        "kind": "check",
+        "skill": "reading",
+        "item": "Read and infer",
+        "prompt": "What mainly caused the group to change its opinion of the pond?",
+        "uk": "Прочитай текст, поєднай його деталі й вибери найкраще пояснення.",
+        "audio": "",
+        "answer": "A closer look revealed life they had missed.",
+        "choices": [
+          "The gardener added more animals while they watched.",
+          "A closer look revealed life they had missed.",
+          "Ellie explained that fish would soon arrive."
+        ],
+        "hint": "Distinguish a change in the pond from a change in what the group noticed.",
+        "passage": "When our science group first visited the new pond, we thought the project had failed. We could not see a single frog, and the water looked still. Ellie suggested adding fish to make the pond more interesting. Before we decided, the gardener gave us a shallow tray and asked us to look carefully at a little pond water. Within a minute, we noticed tiny creatures moving around. Later, a dragonfly landed on a reed. We left without adding anything. In our report, we included drawings of what we had found and explained why we would return at different times of day. The pond had not changed during our visit, but our idea of it had."
+      },
+      {
+        "id": "b1-animals-listening",
+        "kind": "listen",
+        "skill": "listening",
+        "item": "Listen for meaning",
+        "prompt": "Why will the group record the weather on future visits?",
+        "uk": "Прослухай запис і вибери пояснення, яке найкраще передає його зміст.",
+        "audio": "We planned to count butterflies in the park on Saturday morning, but it was cold and windy. After twenty minutes, we had seen only one. Sam said there must be fewer butterflies this year. Our group leader suggested returning on a warm afternoon before reaching that conclusion. She explained that butterflies are often easier to see in warm, calm weather. We agreed to record the weather beside every count, so we could compare our visits more fairly.",
+        "answer": "To make comparisons between counts more useful.",
+        "choices": [
+          "To make comparisons between counts more useful.",
+          "To choose which butterflies to draw.",
+          "To prove that the park has fewer butterflies."
+        ],
+        "hint": "The leader thinks one count may have an explanation other than fewer butterflies."
+      },
+      {
+        "id": "b1-animals-language",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Choose the right wording",
+        "prompt": "The group expected an empty pond but discovered many small creatures. Which report sentence expresses this contrast clearly?",
+        "uk": "Врахуй контекст і вибери доречне речення.",
+        "audio": "",
+        "answer": "Although we expected an empty pond, we discovered many small creatures.",
+        "choices": [
+          "Because we expected an empty pond, we discovered many small creatures.",
+          "We expected an empty pond so that we discovered many small creatures.",
+          "Although we expected an empty pond, we discovered many small creatures."
+        ],
+        "hint": "Choose the connector for an unexpected contrast, rather than a cause or purpose."
+      },
+      {
+        "id": "b1-animals-writing",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Write your response",
+        "prompt": "Describe a real or invented visit to a natural place that surprised you. Explain your first impression, what changed it, and what you would investigate next.",
+        "uk": "Напиши відповідь англійською мовою обсягом 40–70 слів. Виконай усі частини завдання й перевір відповідь за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Link your ideas with words such as 'because', 'although' and 'so'. Include reasons, not just a list.",
+        "minWords": 40,
+        "maxWords": 70,
+        "rubric": [
+          "Connect a first impression to specific later evidence.",
+          "Explain one sensible next step in the investigation.",
+          "Organise events clearly using suitable linking words and past forms."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b1-food",
+    "level": "B1",
+    "topic": "food",
+    "title": "Soup from the Spare Vegetables",
+    "objective": "CEFR-inspired sample lesson: explain how a community food project balances two practical needs.",
+    "words": [
+      "surplus",
+      "ingredients",
+      "portion",
+      "donate",
+      "affordable"
+    ],
+    "passage": "Our community café began making Friday soup with vegetables that local shops had not sold. The vegetables were still good to eat, although some looked unusual. At first, volunteers printed a recipe every Thursday. However, they could not know which vegetables would arrive the next morning. They now put the day's ingredients on a board before serving lunch and check them with anyone who asks about allergies. Customers can choose a small bowl or a large one. The café asks for a low payment to cover bread and electricity, but people may donate extra. The manager says that using spare vegetables matters, yet the project will only continue if neighbours enjoy coming back.",
+    "listeningPassage": "Our class sold sandwiches at the school fair. We made the same number of cheese and vegetable sandwiches because last year's totals were equal. This year, the vegetable sandwiches sold out quickly. Rather than making extra cheese sandwiches, we asked customers what they wanted and wrote down their answers. At the next fair, we will use both the sales figures and these notes. A sold-out sandwich cannot appear in the later sales totals, even when people still want it.",
+    "activities": [
+      {
+        "id": "b1-food-reading",
+        "kind": "check",
+        "skill": "reading",
+        "item": "Read and infer",
+        "prompt": "What would most likely worry the manager, even if spare vegetables kept arriving?",
+        "uk": "Прочитай текст, поєднай його деталі й вибери найкраще пояснення.",
+        "audio": "",
+        "answer": "Neighbours trying the café once but rarely returning.",
+        "choices": [
+          "Having to change the soup recipe from one Friday to the next.",
+          "Receiving vegetables with unusual shapes from local shops.",
+          "Neighbours trying the café once but rarely returning."
+        ],
+        "hint": "Think about what the manager considers necessary for the project to continue.",
+        "passage": "Our community café began making Friday soup with vegetables that local shops had not sold. The vegetables were still good to eat, although some looked unusual. At first, volunteers printed a recipe every Thursday. However, they could not know which vegetables would arrive the next morning. They now put the day's ingredients on a board before serving lunch and check them with anyone who asks about allergies. Customers can choose a small bowl or a large one. The café asks for a low payment to cover bread and electricity, but people may donate extra. The manager says that using spare vegetables matters, yet the project will only continue if neighbours enjoy coming back."
+      },
+      {
+        "id": "b1-food-listening",
+        "kind": "listen",
+        "skill": "listening",
+        "item": "Listen for meaning",
+        "prompt": "Why will the class use customers' comments as well as sales totals?",
+        "uk": "Прослухай запис і вибери пояснення, яке найкраще передає його зміст.",
+        "audio": "Our class sold sandwiches at the school fair. We made the same number of cheese and vegetable sandwiches because last year's totals were equal. This year, the vegetable sandwiches sold out quickly. Rather than making extra cheese sandwiches, we asked customers what they wanted and wrote down their answers. At the next fair, we will use both the sales figures and these notes. A sold-out sandwich cannot appear in the later sales totals, even when people still want it.",
+        "answer": "Sales totals may miss demand for sandwiches that sold out.",
+        "choices": [
+          "Comments will show which sandwiches are cheaper to make.",
+          "Sales totals may miss demand for sandwiches that sold out.",
+          "Customers can remember every sandwich sold last year."
+        ],
+        "hint": "Think about a customer who wants something after none is left."
+      },
+      {
+        "id": "b1-food-language",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Choose the right wording",
+        "prompt": "The café does not yet know what vegetables it will receive tomorrow. Which sentence expresses a possible plan for that day?",
+        "uk": "Врахуй контекст і вибери доречне речення.",
+        "audio": "",
+        "answer": "If we receive carrots tomorrow, we will add them to the soup.",
+        "choices": [
+          "If we receive carrots tomorrow, we will add them to the soup.",
+          "We added carrots to the soup because they arrived yesterday.",
+          "We receive carrots every Friday and always make carrot soup."
+        ],
+        "hint": "Look for an uncertain future condition and the action that will follow if it happens."
+      },
+      {
+        "id": "b1-food-writing",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Write your response",
+        "prompt": "Suggest a small food project for your school or community. Explain how it could reduce waste, why people would join, and one practical problem to solve.",
+        "uk": "Напиши відповідь англійською мовою обсягом 40–70 слів. Виконай усі частини завдання й перевір відповідь за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Link your ideas with words such as 'because', 'although' and 'so'. Include reasons, not just a list.",
+        "minWords": 40,
+        "maxWords": 70,
+        "rubric": [
+          "Explain a workable way to reduce food waste.",
+          "Connect people's participation to a clear benefit.",
+          "Describe one practical problem using connected, understandable sentences."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b1-school",
+    "level": "B1",
+    "topic": "school",
+    "title": "A Club Everyone Can Reach",
+    "objective": "CEFR-inspired sample lesson: explain different needs and propose a compromise with reasons.",
+    "words": [
+      "survey",
+      "attend",
+      "compromise",
+      "equipment",
+      "available"
+    ],
+    "passage": "The school photography club used to meet every Tuesday after lessons. Although twenty students joined the online group, only seven regularly attended. The organisers first thought the others had lost interest. Then a short survey showed that several students caught an early bus, while others shared a camera with someone at home. The club decided to meet at lunchtime twice a month and lend simple school cameras during those sessions. A few members preferred the longer afternoon meetings because they could explore the park. The organisers therefore kept one optional outdoor trip each term. They will review attendance after six weeks and ask members whether the new arrangement gives them enough time to learn.",
+    "listeningPassage": "We wanted to hold a book swap in the hall, but the hall is busy during lunch. The librarian offered a corner of the library, where there is less space. We decided that each student could bring two books instead of five. Some students worried they had no books to swap, so we added a table of donated books. Everyone may choose from that table. We hope the swap will help students discover stories, even if they arrive empty-handed.",
+    "activities": [
+      {
+        "id": "b1-school-reading",
+        "kind": "check",
+        "skill": "reading",
+        "item": "Read and infer",
+        "prompt": "What does the club's new plan suggest about the organisers?",
+        "uk": "Прочитай текст, поєднай його деталі й вибери найкраще пояснення.",
+        "audio": "",
+        "answer": "They are trying to include more students while keeping some longer activities.",
+        "choices": [
+          "They are trying to include more students while keeping some longer activities.",
+          "They believe online members should lose their places in the club.",
+          "They think photography is best taught without outdoor practice."
+        ],
+        "hint": "Consider both the lunchtime sessions and the remaining outdoor trip.",
+        "passage": "The school photography club used to meet every Tuesday after lessons. Although twenty students joined the online group, only seven regularly attended. The organisers first thought the others had lost interest. Then a short survey showed that several students caught an early bus, while others shared a camera with someone at home. The club decided to meet at lunchtime twice a month and lend simple school cameras during those sessions. A few members preferred the longer afternoon meetings because they could explore the park. The organisers therefore kept one optional outdoor trip each term. They will review attendance after six weeks and ask members whether the new arrangement gives them enough time to learn."
+      },
+      {
+        "id": "b1-school-listening",
+        "kind": "listen",
+        "skill": "listening",
+        "item": "Listen for meaning",
+        "prompt": "What problem does the table of donated books address?",
+        "uk": "Прослухай запис і вибери пояснення, яке найкраще передає його зміст.",
+        "audio": "We wanted to hold a book swap in the hall, but the hall is busy during lunch. The librarian offered a corner of the library, where there is less space. We decided that each student could bring two books instead of five. Some students worried they had no books to swap, so we added a table of donated books. Everyone may choose from that table. We hope the swap will help students discover stories, even if they arrive empty-handed.",
+        "answer": "Some students have no books they can bring to swap.",
+        "choices": [
+          "The library needs more space for large groups.",
+          "Some students want to bring more than two books.",
+          "Some students have no books they can bring to swap."
+        ],
+        "hint": "Listen to the worry mentioned immediately before the donated table."
+      },
+      {
+        "id": "b1-school-language",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Choose the right wording",
+        "prompt": "You are emailing the club organiser to request a camera for the next session. Which sentence is polite and clearly states your request?",
+        "uk": "Врахуй контекст і вибери доречне речення.",
+        "audio": "",
+        "answer": "Could I borrow a school camera for the next session, please?",
+        "choices": [
+          "You should have given me your camera last week.",
+          "Could I borrow a school camera for the next session, please?",
+          "Perhaps cameras are interesting to some club members."
+        ],
+        "hint": "The message needs both a polite request and enough detail to act on it."
+      },
+      {
+        "id": "b1-school-writing",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Write your response",
+        "prompt": "Propose a change that would help more students join a school club. Explain the difficulty, your solution, and how you would check whether it helped.",
+        "uk": "Напиши відповідь англійською мовою обсягом 40–70 слів. Виконай усі частини завдання й перевір відповідь за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Link your ideas with words such as 'because', 'although' and 'so'. Include reasons, not just a list.",
+        "minWords": 40,
+        "maxWords": 70,
+        "rubric": [
+          "Explain a specific barrier to taking part.",
+          "Propose a relevant change and a way to check its effect.",
+          "Link the problem and solution with clear reasons."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b2-animals",
+    "level": "B2",
+    "topic": "animals",
+    "title": "Who Is the Wildlife Camera For?",
+    "objective": "CEFR-inspired sample lesson: evaluate competing arguments and draw a qualified inference from limited evidence.",
+    "words": [
+      "disturbance",
+      "enthusiasm",
+      "restriction",
+      "evidence",
+      "trade-off"
+    ],
+    "passage": "A camera above the school garden streamed pictures of nesting birds to classroom screens. Within a week, students who had never visited the garden were asking thoughtful questions about the birds. The nature club called this an educational success and proposed a second camera beside another nest. The caretaker was less enthusiastic. Installing the first camera had required several visits, and she had noticed the birds waiting nearby rather than entering the nest while people were present. No one knew whether this brief delay had caused a lasting problem. At a meeting, one student argued that any disturbance made the project unacceptable; another said that growing interest justified it. The science teacher suggested a third option: keep watching the existing camera, but postpone new installations until the nesting season ended. The club accepted this proposal, although it would mean fewer pictures this term. Its newsletter described the decision as 'giving our curiosity a timetable'.",
+    "listeningPassage": "Our class compared two paths through the woodland. More birds were heard beside the quieter path, so several students wanted the busy path closed. However, the quiet route also had taller trees and was visited earlier in the morning. We could not separate these differences from the effect of noise. The park volunteer suggested repeating the counts at matching times and recording the types of trees along each route. Until then, she supported asking visitors to speak softly near nesting areas, but she did not think our results alone justified closing a whole path.",
+    "activities": [
+      {
+        "id": "b2-animals-reading",
+        "kind": "check",
+        "skill": "reading",
+        "item": "Read and infer",
+        "prompt": "What does 'giving our curiosity a timetable' imply about the club's decision?",
+        "uk": "Прочитай текст, оціни аргументи й вибери висновок, який він підтримує.",
+        "audio": "",
+        "answer": "The club still values the project but accepts a delay to limit possible disturbance.",
+        "choices": [
+          "The club considers the camera educationally valuable only when birds can be seen throughout the day.",
+          "The club believes the evidence already establishes a need to remove the existing camera.",
+          "The club still values the project but accepts a delay to limit possible disturbance."
+        ],
+        "hint": "The club keeps the existing camera and changes the timing of future installations.",
+        "passage": "A camera above the school garden streamed pictures of nesting birds to classroom screens. Within a week, students who had never visited the garden were asking thoughtful questions about the birds. The nature club called this an educational success and proposed a second camera beside another nest. The caretaker was less enthusiastic. Installing the first camera had required several visits, and she had noticed the birds waiting nearby rather than entering the nest while people were present. No one knew whether this brief delay had caused a lasting problem. At a meeting, one student argued that any disturbance made the project unacceptable; another said that growing interest justified it. The science teacher suggested a third option: keep watching the existing camera, but postpone new installations until the nesting season ended. The club accepted this proposal, although it would mean fewer pictures this term. Its newsletter described the decision as 'giving our curiosity a timetable'."
+      },
+      {
+        "id": "b2-animals-listening",
+        "kind": "listen",
+        "skill": "listening",
+        "item": "Listen for meaning",
+        "prompt": "Why does the volunteer think the evidence is insufficient to justify closing the path?",
+        "uk": "Прослухай запис, порівняй аргументи й вибери найкращий висновок.",
+        "audio": "Our class compared two paths through the woodland. More birds were heard beside the quieter path, so several students wanted the busy path closed. However, the quiet route also had taller trees and was visited earlier in the morning. We could not separate these differences from the effect of noise. The park volunteer suggested repeating the counts at matching times and recording the types of trees along each route. Until then, she supported asking visitors to speak softly near nesting areas, but she did not think our results alone justified closing a whole path.",
+        "answer": "Several differences between the routes could explain the bird counts.",
+        "choices": [
+          "Several differences between the routes could explain the bird counts.",
+          "The quieter path has more trees, so noise is unlikely to have any effect.",
+          "Repeating the count would establish whether the birds preferred the park to other habitats."
+        ],
+        "hint": "Listen for variables other than noise that differed between the two visits."
+      },
+      {
+        "id": "b2-animals-language",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Choose the right wording",
+        "prompt": "A report must accurately summarise the camera evidence: birds delayed entering while installers were present, but lasting effects were unknown. Which sentence is best supported?",
+        "uk": "Вибери формулювання, яке точно відповідає контексту та наявним доказам.",
+        "audio": "",
+        "answer": "Installation may have briefly disturbed the birds, although lasting harm was not established.",
+        "choices": [
+          "The installation disturbed the birds enough to put the long-term success of the nest at risk.",
+          "Installation may have briefly disturbed the birds, although lasting harm was not established.",
+          "The birds waited nearby, indicating that the installation was a change they quickly accepted."
+        ],
+        "hint": "Keep the observed short-term effect separate from an unproven long-term outcome."
+      },
+      {
+        "id": "b2-animals-writing",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Write your response",
+        "prompt": "Should the school install the second wildlife camera later? Write a recommendation that considers an educational benefit, a possible drawback, and evidence the school should gather.",
+        "uk": "Напиши відповідь англійською мовою обсягом 70–110 слів. Виконай усі частини завдання й перевір відповідь за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "State your position, support it with relevant details, and address a limitation or competing concern.",
+        "minWords": 70,
+        "maxWords": 110,
+        "rubric": [
+          "Present a clear recommendation supported by reasons.",
+          "Consider a competing concern and distinguish evidence from uncertainty.",
+          "Use an organised argument with appropriately qualified claims."
+        ],
+        "passage": "A camera above the school garden streamed pictures of nesting birds to classroom screens. Within a week, students who had never visited the garden were asking thoughtful questions about the birds. The nature club called this an educational success and proposed a second camera beside another nest. The caretaker was less enthusiastic. Installing the first camera had required several visits, and she had noticed the birds waiting nearby rather than entering the nest while people were present. No one knew whether this brief delay had caused a lasting problem. At a meeting, one student argued that any disturbance made the project unacceptable; another said that growing interest justified it. The science teacher suggested a third option: keep watching the existing camera, but postpone new installations until the nesting season ended. The club accepted this proposal, although it would mean fewer pictures this term. Its newsletter described the decision as 'giving our curiosity a timetable'."
+      }
+    ]
+  },
+  {
+    "id": "b2-food",
+    "level": "B2",
+    "topic": "food",
+    "title": "When Reusable Means Used Again",
+    "objective": "CEFR-inspired sample lesson: assess a sustainability claim and distinguish a promising idea from demonstrated results.",
+    "words": [
+      "deposit",
+      "durable",
+      "assumption",
+      "return rate",
+      "evaluate"
+    ],
+    "passage": "For its summer fair, Brook School replaced disposable drink cups with durable ones. Visitors paid a small deposit, which they received back when they returned a cup. The organisers proudly ordered only one bin for cup waste. By the end of the fair, however, forty of the two hundred cups were missing. Some visitors had taken them home as souvenirs; others had left them near the playing field because the return desk was beside the entrance. A poster later announced that the fair had become 'waste-free'. The eco committee challenged that description. Fewer cups had been thrown into bins, but the team had not recorded how much washing was needed or whether the missing cups would be used again. For the next event, the committee proposed several clearly marked return points and a count of cups across the whole site. It supported the scheme, but wanted its success judged by repeated use rather than the purchase of reusable objects.",
+    "listeningPassage": "At our cooking club, we compared two snack plans. One used local apples delivered in several small car trips; the other used apples from farther away, brought with other goods in one full delivery. We did not have enough information to compare the total environmental effects. Our teacher asked us to avoid declaring a winner based only on distance. Instead, we listed the information we would need, including transport, storage and how much fruit would be eaten. We also agreed on one immediate step: ask members how many apples they wanted before ordering, to reduce predictable leftovers.",
+    "activities": [
+      {
+        "id": "b2-food-reading",
+        "kind": "check",
+        "skill": "reading",
+        "item": "Read and infer",
+        "prompt": "Which assumption in the original celebration does the committee question?",
+        "uk": "Прочитай текст, оціни аргументи й вибери висновок, який він підтримує.",
+        "audio": "",
+        "answer": "Buying reusable cups automatically demonstrates a successful reduction in waste.",
+        "choices": [
+          "Buying reusable cups automatically demonstrates a successful reduction in waste.",
+          "A deposit system depends mainly on making the payment large enough.",
+          "The number of bins matters more than where visitors can return their cups."
+        ],
+        "hint": "Look at the contrast between purchasing a reusable object and actually reusing it.",
+        "passage": "For its summer fair, Brook School replaced disposable drink cups with durable ones. Visitors paid a small deposit, which they received back when they returned a cup. The organisers proudly ordered only one bin for cup waste. By the end of the fair, however, forty of the two hundred cups were missing. Some visitors had taken them home as souvenirs; others had left them near the playing field because the return desk was beside the entrance. A poster later announced that the fair had become 'waste-free'. The eco committee challenged that description. Fewer cups had been thrown into bins, but the team had not recorded how much washing was needed or whether the missing cups would be used again. For the next event, the committee proposed several clearly marked return points and a count of cups across the whole site. It supported the scheme, but wanted its success judged by repeated use rather than the purchase of reusable objects."
+      },
+      {
+        "id": "b2-food-listening",
+        "kind": "listen",
+        "skill": "listening",
+        "item": "Listen for meaning",
+        "prompt": "Which conclusion does the club have enough information to support?",
+        "uk": "Прослухай запис, порівняй аргументи й вибери найкращий висновок.",
+        "audio": "At our cooking club, we compared two snack plans. One used local apples delivered in several small car trips; the other used apples from farther away, brought with other goods in one full delivery. We did not have enough information to compare the total environmental effects. Our teacher asked us to avoid declaring a winner based only on distance. Instead, we listed the information we would need, including transport, storage and how much fruit would be eaten. We also agreed on one immediate step: ask members how many apples they wanted before ordering, to reduce predictable leftovers.",
+        "answer": "Ordering according to expected demand can help avoid unwanted leftovers.",
+        "choices": [
+          "The shorter journey gives the local apples a clear overall environmental advantage.",
+          "Ordering according to expected demand can help avoid unwanted leftovers.",
+          "The full delivery makes the farther-away apples the better environmental choice."
+        ],
+        "hint": "Separate the unresolved comparison from the practical step agreed at the end."
+      },
+      {
+        "id": "b2-food-language",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Choose the right wording",
+        "prompt": "The committee supports the cup scheme but rejects the unverified phrase 'waste-free'. Which replacement preserves that position most accurately?",
+        "uk": "Вибери формулювання, яке точно відповідає контексту та наявним доказам.",
+        "audio": "",
+        "answer": "The scheme could reduce waste if enough cups are returned and used again.",
+        "choices": [
+          "The missing cups show that disposable cups would have produced less waste.",
+          "The scheme reduced waste because fewer cups were found in the bins.",
+          "The scheme could reduce waste if enough cups are returned and used again."
+        ],
+        "hint": "Choose a conditional claim that matches both support and remaining uncertainty."
+      },
+      {
+        "id": "b2-food-writing",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Write your response",
+        "prompt": "Write a short recommendation for the next fair. Explain one weakness in the cup scheme, propose an improvement, and identify a measure that would show whether it worked.",
+        "uk": "Напиши відповідь англійською мовою обсягом 70–110 слів. Виконай усі частини завдання й перевір відповідь за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "State your position, support it with relevant details, and address a limitation or competing concern.",
+        "minWords": 70,
+        "maxWords": 110,
+        "rubric": [
+          "Connect a specific weakness to a practical improvement.",
+          "Choose a relevant measure rather than relying on a slogan.",
+          "Develop a balanced recommendation with clear reasoning and linking language."
+        ],
+        "passage": "For its summer fair, Brook School replaced disposable drink cups with durable ones. Visitors paid a small deposit, which they received back when they returned a cup. The organisers proudly ordered only one bin for cup waste. By the end of the fair, however, forty of the two hundred cups were missing. Some visitors had taken them home as souvenirs; others had left them near the playing field because the return desk was beside the entrance. A poster later announced that the fair had become 'waste-free'. The eco committee challenged that description. Fewer cups had been thrown into bins, but the team had not recorded how much washing was needed or whether the missing cups would be used again. For the next event, the committee proposed several clearly marked return points and a count of cups across the whole site. It supported the scheme, but wanted its success judged by repeated use rather than the purchase of reusable objects."
+      }
+    ]
+  },
+  {
+    "id": "b2-school",
+    "level": "B2",
+    "topic": "school",
+    "title": "The Vote That Missed Some Voices",
+    "objective": "CEFR-inspired sample lesson: evaluate how evidence was collected and express a qualified recommendation.",
+    "words": [
+      "representative",
+      "participation",
+      "access",
+      "majority",
+      "consultation"
+    ],
+    "passage": "The student council wanted to choose between a games area and a quiet reading corner for an unused room. It posted an online poll on Friday evening and closed it on Sunday. Of the ninety students who voted, sixty chose games. The council announced that 'the school has clearly spoken'. On Monday, a tutor pointed out that the school had four hundred students and that some families restricted internet use at weekends. Several younger pupils said they had never seen the link. Supporters of the games area argued that the winning margin was too large to ignore. Supporters of the reading corner wanted the poll cancelled. The head teacher proposed keeping the result as one piece of evidence while offering paper ballots and short class discussions. Students would also be asked how often they expected to use either room. The council worried that another consultation would slow the project, but agreed that a quick decision was not necessarily a well-informed one.",
+    "listeningPassage": "Our drama club asked members whether rehearsals should move to Thursdays. Most replies supported the change. Before confirming it, the organiser noticed that the students responsible for lighting had not replied. Their music lesson finished late on Thursdays, so they might miss the start. She suggested trialling a slightly later Thursday rehearsal for two weeks and collecting comments from actors and the lighting team. One actor called this unnecessary because the majority had already voted. The organiser replied that a rehearsal needed the whole team to function, even if one group was much smaller than the others.",
+    "activities": [
+      {
+        "id": "b2-school-reading",
+        "kind": "check",
+        "skill": "reading",
+        "item": "Read and infer",
+        "prompt": "Why does the head teacher want to keep the first poll as one piece of evidence?",
+        "uk": "Прочитай текст, оціни аргументи й вибери висновок, який він підтримує.",
+        "audio": "",
+        "answer": "The poll contains useful preferences but may not represent students who missed it.",
+        "choices": [
+          "The large winning margin makes the first result more representative than a later paper ballot.",
+          "The poll contains useful preferences but may not represent students who missed it.",
+          "The first poll should decide the choice, while further discussion determines how to furnish the room."
+        ],
+        "hint": "The proposal neither discards the responses nor treats them as the whole school's view.",
+        "passage": "The student council wanted to choose between a games area and a quiet reading corner for an unused room. It posted an online poll on Friday evening and closed it on Sunday. Of the ninety students who voted, sixty chose games. The council announced that 'the school has clearly spoken'. On Monday, a tutor pointed out that the school had four hundred students and that some families restricted internet use at weekends. Several younger pupils said they had never seen the link. Supporters of the games area argued that the winning margin was too large to ignore. Supporters of the reading corner wanted the poll cancelled. The head teacher proposed keeping the result as one piece of evidence while offering paper ballots and short class discussions. Students would also be asked how often they expected to use either room. The council worried that another consultation would slow the project, but agreed that a quick decision was not necessarily a well-informed one."
+      },
+      {
+        "id": "b2-school-listening",
+        "kind": "listen",
+        "skill": "listening",
+        "item": "Listen for meaning",
+        "prompt": "What is the organiser's main reason for consulting the lighting team?",
+        "uk": "Прослухай запис, порівняй аргументи й вибери найкращий висновок.",
+        "audio": "Our drama club asked members whether rehearsals should move to Thursdays. Most replies supported the change. Before confirming it, the organiser noticed that the students responsible for lighting had not replied. Their music lesson finished late on Thursdays, so they might miss the start. She suggested trialling a slightly later Thursday rehearsal for two weeks and collecting comments from actors and the lighting team. One actor called this unnecessary because the majority had already voted. The organiser replied that a rehearsal needed the whole team to function, even if one group was much smaller than the others.",
+        "answer": "Their needs matter to whether rehearsals can work, regardless of their smaller numbers.",
+        "choices": [
+          "Their needs matter to whether rehearsals can work, regardless of their smaller numbers.",
+          "The organiser wants to replace the first vote because she expects the actors to change their minds.",
+          "The lighting team's existing lesson means Thursday rehearsals have already been ruled out."
+        ],
+        "hint": "Focus on the difference between being a numerical majority and having a functioning team."
+      },
+      {
+        "id": "b2-school-language",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Choose the right wording",
+        "prompt": "The council is revising 'The school has clearly spoken' to reflect the evidence fairly. Which sentence is most accurate?",
+        "uk": "Вибери формулювання, яке точно відповідає контексту та наявним доказам.",
+        "audio": "",
+        "answer": "Two-thirds of respondents preferred games, but wider consultation is needed.",
+        "choices": [
+          "Two-thirds of the school preferred games, although some students missed the poll.",
+          "The responses suggest the two options have equal support across the school.",
+          "Two-thirds of respondents preferred games, but wider consultation is needed."
+        ],
+        "hint": "Identify the denominator: the result describes respondents, not all enrolled students."
+      },
+      {
+        "id": "b2-school-writing",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Write your response",
+        "prompt": "Advise the student council on how to make its decision. Discuss the usefulness and limitations of the first poll, and propose a fair next step without delaying the project indefinitely.",
+        "uk": "Напиши відповідь англійською мовою обсягом 70–110 слів. Виконай усі частини завдання й перевір відповідь за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "State your position, support it with relevant details, and address a limitation or competing concern.",
+        "minWords": 70,
+        "maxWords": 110,
+        "rubric": [
+          "Explain both the value and a limitation of the initial result.",
+          "Propose a feasible next step with a reason or time limit.",
+          "Use a coherent argument and distinguish respondents from the whole school."
+        ],
+        "passage": "The student council wanted to choose between a games area and a quiet reading corner for an unused room. It posted an online poll on Friday evening and closed it on Sunday. Of the ninety students who voted, sixty chose games. The council announced that 'the school has clearly spoken'. On Monday, a tutor pointed out that the school had four hundred students and that some families restricted internet use at weekends. Several younger pupils said they had never seen the link. Supporters of the games area argued that the winning margin was too large to ignore. Supporters of the reading corner wanted the poll cancelled. The head teacher proposed keeping the result as one piece of evidence while offering paper ballots and short class discussions. Students would also be asked how often they expected to use either room. The council worried that another consultation would slow the project, but agreed that a quick decision was not necessarily a well-informed one."
+      }
+    ]
+  },
+  {
+    "id": "c1-animals",
+    "level": "C1",
+    "topic": "animals",
+    "title": "Untidy on Purpose",
+    "objective": "CEFR-inspired sample lesson: interpret an implicit stance and synthesise ecological and community priorities in an appropriate register.",
+    "words": [
+      "curated",
+      "misconception",
+      "accommodate",
+      "stewardship",
+      "qualified support"
+    ],
+    "passage": "When the park team stopped mowing a strip beside the playground, complaints arrived before the first flowers did. A residents' newsletter described the strip as 'an experiment in forgetting the lawnmower'. The nature club replied with a list of insects found there, assuming that evidence of wildlife would settle the matter. It did not. Some residents were concerned about the narrow path; others simply associated long grass with a place nobody cared for.\n\nAt a public meeting, the gardener resisted both descriptions. The strip was neither abandoned nor guaranteed to become a miniature paradise, she said. Different plants would appear over time, and the team would need to observe what actually grew. She proposed widening the mown edge and putting up a small sign explaining the maintenance plan. A club member objected that a sign should not be necessary for people to appreciate nature. 'Perhaps,' the gardener replied, 'but appreciation is easier when you can see where to put your feet.'\n\nThe newsletter's next issue welcomed the clearer path while reserving judgement on the planting. The club found this response disappointingly cautious. The gardener kept a copy beside the new survey forms: for her, a resident willing to look again was already part of the work.",
+    "listeningPassage": "The museum invited our class to rewrite labels for its garden trail. Our first label began, 'Even the smallest visitor can save the planet by planting one flower.' The educator praised its warmth, then asked what a child might reasonably expect that single action to achieve. We revised it to describe the insects a suitable flower could support. Another group wanted to remove all invitations to act, arguing that labels should only give facts. The educator disagreed: accuracy did not require us to sound indifferent. Our final version offered one practical action, explained its limited benefit, and invited visitors to notice what happened. It was less dramatic than our first attempt, but it left room for curiosity rather than promising a result no garden label could guarantee.",
+    "activities": [
+      {
+        "id": "c1-animals-reading",
+        "kind": "check",
+        "skill": "reading",
+        "item": "Read and infer",
+        "prompt": "Why does the gardener keep the cautiously positive newsletter beside the survey forms?",
+        "uk": "Прочитай текст і визнач прихований зміст або ставлення автора. Вибери найточнішу відповідь.",
+        "audio": "",
+        "answer": "She regards residents' renewed willingness to engage as evidence of useful progress.",
+        "choices": [
+          "She regards residents' renewed willingness to engage as evidence of useful progress.",
+          "She takes the newsletter as public approval of the trial's ecological results.",
+          "She sees clearer paths as the final solution, making further consultation less necessary."
+        ],
+        "hint": "Consider her response to cautious engagement, rather than looking for complete agreement.",
+        "passage": "When the park team stopped mowing a strip beside the playground, complaints arrived before the first flowers did. A residents' newsletter described the strip as 'an experiment in forgetting the lawnmower'. The nature club replied with a list of insects found there, assuming that evidence of wildlife would settle the matter. It did not. Some residents were concerned about the narrow path; others simply associated long grass with a place nobody cared for.\n\nAt a public meeting, the gardener resisted both descriptions. The strip was neither abandoned nor guaranteed to become a miniature paradise, she said. Different plants would appear over time, and the team would need to observe what actually grew. She proposed widening the mown edge and putting up a small sign explaining the maintenance plan. A club member objected that a sign should not be necessary for people to appreciate nature. 'Perhaps,' the gardener replied, 'but appreciation is easier when you can see where to put your feet.'\n\nThe newsletter's next issue welcomed the clearer path while reserving judgement on the planting. The club found this response disappointingly cautious. The gardener kept a copy beside the new survey forms: for her, a resident willing to look again was already part of the work."
+      },
+      {
+        "id": "c1-animals-listening",
+        "kind": "listen",
+        "skill": "listening",
+        "item": "Listen for meaning",
+        "prompt": "Which principle best captures the educator's position on the garden labels?",
+        "uk": "Прослухай запис і визнач позицію мовця, враховуючи застереження та підтекст.",
+        "audio": "The museum invited our class to rewrite labels for its garden trail. Our first label began, 'Even the smallest visitor can save the planet by planting one flower.' The educator praised its warmth, then asked what a child might reasonably expect that single action to achieve. We revised it to describe the insects a suitable flower could support. Another group wanted to remove all invitations to act, arguing that labels should only give facts. The educator disagreed: accuracy did not require us to sound indifferent. Our final version offered one practical action, explained its limited benefit, and invited visitors to notice what happened. It was less dramatic than our first attempt, but it left room for curiosity rather than promising a result no garden label could guarantee.",
+        "answer": "An inviting tone can be retained while claims are made precise and proportionate.",
+        "choices": [
+          "A memorable invitation can justify simplifying the scale of an action's likely benefit.",
+          "Removing persuasive language would make the labels more useful as educational resources.",
+          "An inviting tone can be retained while claims are made precise and proportionate."
+        ],
+        "hint": "Her feedback rejects both an exaggerated promise and a purely detached tone."
+      },
+      {
+        "id": "c1-animals-language",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Choose the right wording",
+        "prompt": "The nature club is writing a public reply that acknowledges access concerns while supporting the trial. Which sentence best fits that purpose and register?",
+        "uk": "Вибери точне й доречне за стилем формулювання, зберігаючи застереження.",
+        "audio": "",
+        "answer": "We support continuing the trial, provided that access remains clear and its effects are reviewed.",
+        "choices": [
+          "We appreciate residents' concerns, but the insect findings have already resolved the question of continuing the trial.",
+          "We support continuing the trial, provided that access remains clear and its effects are reviewed.",
+          "We welcome improved access and suggest postponing the planting until residents agree on its appearance."
+        ],
+        "hint": "An effective public reply can express support without dismissing legitimate conditions."
+      },
+      {
+        "id": "c1-animals-writing",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Write your response",
+        "prompt": "Write a response for the residents' newsletter. Bring together the club's wildlife evidence and residents' concerns, interpret the gardener's approach, and recommend how the trial should be reviewed.",
+        "uk": "Напиши відповідь англійською мовою обсягом 100–150 слів. Виконай усі частини завдання й перевір відповідь за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Bring the perspectives together rather than summarising them separately. Match your tone to the intended reader.",
+        "minWords": 100,
+        "maxWords": 150,
+        "rubric": [
+          "Synthesise the ecological and community perspectives without misrepresenting either.",
+          "Explain the gardener's approach and propose relevant review criteria.",
+          "Maintain a constructive public register with precise, qualified language."
+        ],
+        "passage": "When the park team stopped mowing a strip beside the playground, complaints arrived before the first flowers did. A residents' newsletter described the strip as 'an experiment in forgetting the lawnmower'. The nature club replied with a list of insects found there, assuming that evidence of wildlife would settle the matter. It did not. Some residents were concerned about the narrow path; others simply associated long grass with a place nobody cared for.\n\nAt a public meeting, the gardener resisted both descriptions. The strip was neither abandoned nor guaranteed to become a miniature paradise, she said. Different plants would appear over time, and the team would need to observe what actually grew. She proposed widening the mown edge and putting up a small sign explaining the maintenance plan. A club member objected that a sign should not be necessary for people to appreciate nature. 'Perhaps,' the gardener replied, 'but appreciation is easier when you can see where to put your feet.'\n\nThe newsletter's next issue welcomed the clearer path while reserving judgement on the planting. The club found this response disappointingly cautious. The gardener kept a copy beside the new survey forms: for her, a resident willing to look again was already part of the work."
+      }
+    ]
+  },
+  {
+    "id": "c1-food",
+    "level": "C1",
+    "topic": "food",
+    "title": "The Perfectly Imperfect Carrot",
+    "objective": "CEFR-inspired sample lesson: identify an implied criticism and reconcile persuasive language with a fair account of evidence.",
+    "words": [
+      "branding",
+      "cosmetic",
+      "premium",
+      "incentive",
+      "unintended consequence"
+    ],
+    "passage": "At the school market, a stall sold bent carrots under the cheerful slogan 'Too quirky to waste'. Students had rescued them from a grower's surplus, and the first boxes sold quickly. Encouraged by the response, the team designed bright packaging and raised the price slightly to cover it. Their report celebrated a change in attitudes: shoppers were apparently learning that appearance mattered less than taste.\n\nA parent who regularly bought inexpensive loose vegetables was not entirely convinced. 'I am glad these carrots found a home,' she wrote, 'though I hope being ordinary will not become their next disadvantage.' Some students thought she was objecting to the project itself. Their business mentor read the comment differently. The parent might be questioning whether the stall had made unusual appearance into a new selling point, rather than making shoppers less concerned with appearance overall.\n\nThe team tested this possibility at the next market. Half the carrots were sold loose with a plain explanation of their origin; half retained the decorated boxes. Shoppers could choose either, and the team recorded their reasons. The results were mixed: packaging attracted attention, but several customers valued being able to buy exactly the amount they needed. The revised report described successful sales and a promising discussion, while leaving the larger claim about changed attitudes open.",
+    "listeningPassage": "Our canteen introduced a 'low-waste lunch' badge for classes that returned the least uneaten food. The first week's winning class celebrated enthusiastically. Then one teacher noticed that some pupils were choosing smaller meals simply to protect the class score. Another class, which included several children trying unfamiliar foods, returned more food but had made progress in willingness to taste it. The student organisers did not abandon the idea of measuring waste. Instead, they removed the class ranking and started discussing the reasons for leftovers. Their next display showed changes over time alongside pupils' comments. It was harder to produce a clear winner, one organiser admitted, but easier to tell whether the project was helping children enjoy sensible portions and explore new food.",
+    "activities": [
+      {
+        "id": "c1-food-reading",
+        "kind": "check",
+        "skill": "reading",
+        "item": "Read and infer",
+        "prompt": "What concern is implied by the parent's comment about 'being ordinary'?",
+        "uk": "Прочитай текст і визнач прихований зміст або ставлення автора. Вибери найточнішу відповідь.",
+        "audio": "",
+        "answer": "The project may replace one preference about appearance with another.",
+        "choices": [
+          "The extra cost of packaging may prevent the stall from recovering its investment.",
+          "The project may replace one preference about appearance with another.",
+          "The stall's success may encourage the grower to stop supplying affordable loose vegetables."
+        ],
+        "hint": "Compare challenging appearance-based choices with celebrating a different kind of appearance.",
+        "passage": "At the school market, a stall sold bent carrots under the cheerful slogan 'Too quirky to waste'. Students had rescued them from a grower's surplus, and the first boxes sold quickly. Encouraged by the response, the team designed bright packaging and raised the price slightly to cover it. Their report celebrated a change in attitudes: shoppers were apparently learning that appearance mattered less than taste.\n\nA parent who regularly bought inexpensive loose vegetables was not entirely convinced. 'I am glad these carrots found a home,' she wrote, 'though I hope being ordinary will not become their next disadvantage.' Some students thought she was objecting to the project itself. Their business mentor read the comment differently. The parent might be questioning whether the stall had made unusual appearance into a new selling point, rather than making shoppers less concerned with appearance overall.\n\nThe team tested this possibility at the next market. Half the carrots were sold loose with a plain explanation of their origin; half retained the decorated boxes. Shoppers could choose either, and the team recorded their reasons. The results were mixed: packaging attracted attention, but several customers valued being able to buy exactly the amount they needed. The revised report described successful sales and a promising discussion, while leaving the larger claim about changed attitudes open."
+      },
+      {
+        "id": "c1-food-listening",
+        "kind": "listen",
+        "skill": "listening",
+        "item": "Listen for meaning",
+        "prompt": "Why do the organisers replace class rankings with trends and comments?",
+        "uk": "Прослухай запис і визнач позицію мовця, враховуючи застереження та підтекст.",
+        "audio": "Our canteen introduced a 'low-waste lunch' badge for classes that returned the least uneaten food. The first week's winning class celebrated enthusiastically. Then one teacher noticed that some pupils were choosing smaller meals simply to protect the class score. Another class, which included several children trying unfamiliar foods, returned more food but had made progress in willingness to taste it. The student organisers did not abandon the idea of measuring waste. Instead, they removed the class ranking and started discussing the reasons for leftovers. Their next display showed changes over time alongside pupils' comments. It was harder to produce a clear winner, one organiser admitted, but easier to tell whether the project was helping children enjoy sensible portions and explore new food.",
+        "answer": "They want to retain useful measurement while reducing incentives that distort the goal.",
+        "choices": [
+          "They want to retain useful measurement while reducing incentives that distort the goal.",
+          "They consider comments a more reliable replacement for measuring the amount of food left.",
+          "They want the classes trying unfamiliar food to have a better chance of winning next time."
+        ],
+        "hint": "Their concern is how the score affects behaviour, not simply whether numbers are available."
+      },
+      {
+        "id": "c1-food-language",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Choose the right wording",
+        "prompt": "The report must summarise what the carrot trial established. Which version is appropriately cautious without becoming vague?",
+        "uk": "Вибери точне й доречне за стилем формулювання, зберігаючи застереження.",
+        "audio": "",
+        "answer": "The carrots sold successfully, but the trial did not establish a general change in attitudes to appearance.",
+        "choices": [
+          "The successful sales indicate that shoppers now judge vegetables mainly by taste.",
+          "The mixed results suggest that packaging has little influence on customers' choices.",
+          "The carrots sold successfully, but the trial did not establish a general change in attitudes to appearance."
+        ],
+        "hint": "Retain the supported outcome while limiting the broader interpretation."
+      },
+      {
+        "id": "c1-food-writing",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Write your response",
+        "prompt": "Write an editorial note evaluating the carrot stall. Distinguish its practical achievement from its claim about attitudes, address the parent's concern, and suggest a next step that keeps the project appealing and accessible.",
+        "uk": "Напиши відповідь англійською мовою обсягом 100–150 слів. Виконай усі частини завдання й перевір відповідь за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Bring the perspectives together rather than summarising them separately. Match your tone to the intended reader.",
+        "minWords": 100,
+        "maxWords": 150,
+        "rubric": [
+          "Separate evidence of sales from the broader claim about changed attitudes.",
+          "Interpret the parent's implied concern fairly and integrate it into the evaluation.",
+          "Offer a coherent next step in a thoughtful, precise editorial register."
+        ],
+        "passage": "At the school market, a stall sold bent carrots under the cheerful slogan 'Too quirky to waste'. Students had rescued them from a grower's surplus, and the first boxes sold quickly. Encouraged by the response, the team designed bright packaging and raised the price slightly to cover it. Their report celebrated a change in attitudes: shoppers were apparently learning that appearance mattered less than taste.\n\nA parent who regularly bought inexpensive loose vegetables was not entirely convinced. 'I am glad these carrots found a home,' she wrote, 'though I hope being ordinary will not become their next disadvantage.' Some students thought she was objecting to the project itself. Their business mentor read the comment differently. The parent might be questioning whether the stall had made unusual appearance into a new selling point, rather than making shoppers less concerned with appearance overall.\n\nThe team tested this possibility at the next market. Half the carrots were sold loose with a plain explanation of their origin; half retained the decorated boxes. Shoppers could choose either, and the team recorded their reasons. The results were mixed: packaging attracted attention, but several customers valued being able to buy exactly the amount they needed. The revised report described successful sales and a promising discussion, while leaving the larger claim about changed attitudes open."
+      }
+    ]
+  },
+  {
+    "id": "c1-school",
+    "level": "C1",
+    "topic": "school",
+    "title": "A Room with More Than One Purpose",
+    "objective": "CEFR-inspired sample lesson: interpret institutional language and synthesise conflicting uses into a qualified proposal.",
+    "words": [
+      "provisional",
+      "consultation",
+      "acoustic",
+      "reconcile",
+      "priority"
+    ],
+    "passage": "The school announced that its little-used study room would become a 'flexible learning hub'. The proposal mentioned movable tables, craft materials and a small recording booth. In the announcement, flexibility seemed to promise something for everyone. During consultation, however, students who used the room for quiet reading discovered that their preferred activity appeared only under 'other possible uses'.\n\nThe project team said that nothing had been ruled out. It also explained that the new equipment required regular bookings to justify its cost. A librarian observed that quiet study rarely generated bookings: students came when they needed it, sometimes for only ten minutes. Counting reservations would therefore make one type of use highly visible and another almost disappear.\n\nThe student paper initially planned the headline 'School abolishes silence'. After interviewing the team, its editor chose a less dramatic title: 'What will flexibility leave room for?' The article accepted the value of making and recording, but questioned whether all uses could coexist merely because the furniture moved. It proposed protected quiet periods and a review that included informal visitors as well as booked groups.\n\nThe team welcomed the article as a 'helpful contribution to an evolving plan'. The editor was pleased to see the issue acknowledged, though she noted that no quiet periods had yet appeared on the draft timetable.",
+    "listeningPassage": "For a community mural, the art committee invited suggestions from every class. Its first update said the design would 'reflect all our voices'. As the sketches arrived, the committee realised that combining every idea would produce a crowded image. It selected a shared river theme and included several different details within it. Some students felt their suggestions had vanished. In response, the committee displayed a short account of how the final design had developed, including ideas that influenced it without appearing literally. The organiser explained that consultation gave everyone an opportunity to contribute, but could not promise every contribution a visible place. She also acknowledged that the original wording had encouraged exactly that expectation, and said future invitations should distinguish participation from guaranteed inclusion.",
+    "activities": [
+      {
+        "id": "c1-school-reading",
+        "kind": "check",
+        "skill": "reading",
+        "item": "Read and infer",
+        "prompt": "What is the editor's implied assessment of the team's final response?",
+        "uk": "Прочитай текст і визнач прихований зміст або ставлення автора. Вибери найточнішу відповідь.",
+        "audio": "",
+        "answer": "Acknowledgement is welcome, but it has not yet become a concrete commitment.",
+        "choices": [
+          "The team's wording implies that quiet study will receive priority once bookings begin.",
+          "The favourable response is sufficient assurance that the proposed timetable will be changed.",
+          "Acknowledgement is welcome, but it has not yet become a concrete commitment."
+        ],
+        "hint": "Compare the team's encouraging language with the unchanged draft timetable.",
+        "passage": "The school announced that its little-used study room would become a 'flexible learning hub'. The proposal mentioned movable tables, craft materials and a small recording booth. In the announcement, flexibility seemed to promise something for everyone. During consultation, however, students who used the room for quiet reading discovered that their preferred activity appeared only under 'other possible uses'.\n\nThe project team said that nothing had been ruled out. It also explained that the new equipment required regular bookings to justify its cost. A librarian observed that quiet study rarely generated bookings: students came when they needed it, sometimes for only ten minutes. Counting reservations would therefore make one type of use highly visible and another almost disappear.\n\nThe student paper initially planned the headline 'School abolishes silence'. After interviewing the team, its editor chose a less dramatic title: 'What will flexibility leave room for?' The article accepted the value of making and recording, but questioned whether all uses could coexist merely because the furniture moved. It proposed protected quiet periods and a review that included informal visitors as well as booked groups.\n\nThe team welcomed the article as a 'helpful contribution to an evolving plan'. The editor was pleased to see the issue acknowledged, though she noted that no quiet periods had yet appeared on the draft timetable."
+      },
+      {
+        "id": "c1-school-listening",
+        "kind": "listen",
+        "skill": "listening",
+        "item": "Listen for meaning",
+        "prompt": "Which tension does the organiser acknowledge in the mural consultation?",
+        "uk": "Прослухай запис і визнач позицію мовця, враховуючи застереження та підтекст.",
+        "audio": "For a community mural, the art committee invited suggestions from every class. Its first update said the design would 'reflect all our voices'. As the sketches arrived, the committee realised that combining every idea would produce a crowded image. It selected a shared river theme and included several different details within it. Some students felt their suggestions had vanished. In response, the committee displayed a short account of how the final design had developed, including ideas that influenced it without appearing literally. The organiser explained that consultation gave everyone an opportunity to contribute, but could not promise every contribution a visible place. She also acknowledged that the original wording had encouraged exactly that expectation, and said future invitations should distinguish participation from guaranteed inclusion.",
+        "answer": "Inviting contributions is valuable, but the invitation overstated what inclusion could guarantee.",
+        "choices": [
+          "A coherent final design justified promising that each contributor would recognise a personal idea.",
+          "Inviting contributions is valuable, but the invitation overstated what inclusion could guarantee.",
+          "The main misunderstanding arose because students were not told which theme to suggest."
+        ],
+        "hint": "Listen for the distinction between a chance to contribute and a guaranteed visible result."
+      },
+      {
+        "id": "c1-school-language",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Choose the right wording",
+        "prompt": "You are formally summarising the article for the project team. Which sentence preserves its qualified position?",
+        "uk": "Вибери точне й доречне за стилем формулювання, зберігаючи застереження.",
+        "audio": "",
+        "answer": "The article supports broader use of the room while arguing that quiet access needs explicit protection.",
+        "choices": [
+          "The article supports broader use of the room while arguing that quiet access needs explicit protection.",
+          "The article accepts the proposed activities but recommends that quiet study move elsewhere.",
+          "The article welcomes flexible furniture as the main means of reconciling the room's different uses."
+        ],
+        "hint": "Preserve both the article's support for new activities and its condition for quiet access."
+      },
+      {
+        "id": "c1-school-writing",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Write your response",
+        "prompt": "Write a proposal to the project team that reconciles creative activities and quiet study. Explain why bookings alone are insufficient evidence, recommend a timetable principle, and state how success should be reviewed.",
+        "uk": "Напиши відповідь англійською мовою обсягом 100–150 слів. Виконай усі частини завдання й перевір відповідь за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Bring the perspectives together rather than summarising them separately. Match your tone to the intended reader.",
+        "minWords": 100,
+        "maxWords": 150,
+        "rubric": [
+          "Synthesise both uses and explain the limits of booking data.",
+          "Propose a clear timetable principle and an inclusive review method.",
+          "Use a constructive formal register with well-qualified reasoning."
+        ],
+        "passage": "The school announced that its little-used study room would become a 'flexible learning hub'. The proposal mentioned movable tables, craft materials and a small recording booth. In the announcement, flexibility seemed to promise something for everyone. During consultation, however, students who used the room for quiet reading discovered that their preferred activity appeared only under 'other possible uses'.\n\nThe project team said that nothing had been ruled out. It also explained that the new equipment required regular bookings to justify its cost. A librarian observed that quiet study rarely generated bookings: students came when they needed it, sometimes for only ten minutes. Counting reservations would therefore make one type of use highly visible and another almost disappear.\n\nThe student paper initially planned the headline 'School abolishes silence'. After interviewing the team, its editor chose a less dramatic title: 'What will flexibility leave room for?' The article accepted the value of making and recording, but questioned whether all uses could coexist merely because the furniture moved. It proposed protected quiet periods and a review that included informal visitors as well as booked groups.\n\nThe team welcomed the article as a 'helpful contribution to an evolving plan'. The editor was pleased to see the issue acknowledged, though she noted that no quiet periods had yet appeared on the draft timetable."
+      }
+    ]
+  },
+  {
+    "id": "c2-animals",
+    "level": "C2",
+    "topic": "animals",
+    "title": "The Fox That Declined the Invitation",
+    "objective": "CEFR-inspired sample lesson: analyse rhetorical framing and reformulate a nuanced argument without losing its qualifications.",
+    "words": [
+      "anthropomorphism",
+      "premise",
+      "elusive",
+      "instrumental",
+      "concede"
+    ],
+    "passage": "For the school nature trail, the publicity team chose a fox as its unofficial host. On posters, a cheerful drawing welcomed visitors to 'my woodland home'; online, a series of photographs promised an encounter with the real animal. The fox, having contributed nothing to these arrangements, ceased appearing near the trail shortly before opening day. Volunteers worried that visitors would feel cheated.\n\nOne suggested moving the camera to find the fox's new route. Another proposed replacing the photographs with an account of the signs it left behind. The discussion might have remained a practical matter had a student not asked when an invitation to notice wildlife had become a promise that wildlife would perform.\n\nThe publicity team defended the campaign: a recognisable character had persuaded families to explore a place they previously ignored. This was a reasonable point, the student conceded. Stories could open a door. Her objection was to quietly treating the story's convenience as a requirement the animal should meet. A fox made approachable on paper was still entitled, in the ordinary rather than legal sense, to remain elusive in the woods.\n\nThe revised trail kept the illustrated host but removed the promise of a sighting. At its entrance stood a new notice: 'Our guide may be elsewhere today. The woodland is still here.' Some visitors found this charming; a few asked where to get a better photograph. In the project review, the student resisted calling the missing fox a failure. It had exposed a weakness in the invitation, she wrote, and perhaps improved the kind of attention the trail was asking for.",
+    "listeningPassage": "At a young naturalists' conference, a speaker praised a campaign for describing a wetland as 'a nursery for tomorrow's wildlife'. Another participant admired the phrase but asked whether it made the wetland seem valuable chiefly because of what it would produce later. The speaker accepted that possibility, yet resisted the conclusion that every metaphor should be abandoned. Scientific descriptions also select what to foreground, she noted; listing species can leave a reader no wiser about why the place matters. Their eventual agreement was modest. The campaign would keep the image, explain the particular processes it referred to, and add perspectives the image left out, including the wetland's present importance to local residents. Language could guide attention without claiming to contain the whole place. The participant called this an improvement, while warning that adding a paragraph was easier than changing the habits of thought that made one attractive phrase feel sufficient.",
+    "activities": [
+      {
+        "id": "c2-animals-reading",
+        "kind": "check",
+        "skill": "reading",
+        "item": "Read and infer",
+        "prompt": "What is the main rhetorical effect of saying the fox 'had contributed nothing to these arrangements'?",
+        "uk": "Проаналізуй підтекст і риторичний прийом. Вибери найточніше тлумачення.",
+        "audio": "",
+        "answer": "It gently exposes how a human publicity plan has assigned the animal a role it never agreed to play.",
+        "choices": [
+          "It excuses the volunteers by presenting unpredictable wildlife as the flaw in an otherwise sound promise.",
+          "It gently exposes how a human publicity plan has assigned the animal a role it never agreed to play.",
+          "It shifts the emphasis from the campaign's invitation to the practical challenge of locating a more dependable route."
+        ],
+        "hint": "Consider the ironic mismatch between human arrangements and a wild animal's behaviour.",
+        "passage": "For the school nature trail, the publicity team chose a fox as its unofficial host. On posters, a cheerful drawing welcomed visitors to 'my woodland home'; online, a series of photographs promised an encounter with the real animal. The fox, having contributed nothing to these arrangements, ceased appearing near the trail shortly before opening day. Volunteers worried that visitors would feel cheated.\n\nOne suggested moving the camera to find the fox's new route. Another proposed replacing the photographs with an account of the signs it left behind. The discussion might have remained a practical matter had a student not asked when an invitation to notice wildlife had become a promise that wildlife would perform.\n\nThe publicity team defended the campaign: a recognisable character had persuaded families to explore a place they previously ignored. This was a reasonable point, the student conceded. Stories could open a door. Her objection was to quietly treating the story's convenience as a requirement the animal should meet. A fox made approachable on paper was still entitled, in the ordinary rather than legal sense, to remain elusive in the woods.\n\nThe revised trail kept the illustrated host but removed the promise of a sighting. At its entrance stood a new notice: 'Our guide may be elsewhere today. The woodland is still here.' Some visitors found this charming; a few asked where to get a better photograph. In the project review, the student resisted calling the missing fox a failure. It had exposed a weakness in the invitation, she wrote, and perhaps improved the kind of attention the trail was asking for."
+      },
+      {
+        "id": "c2-animals-listening",
+        "kind": "listen",
+        "skill": "listening",
+        "item": "Listen for meaning",
+        "prompt": "What reservation remains in the participant's final comment?",
+        "uk": "Прослухай запис і вибери тлумачення, яке зберігає всі важливі смислові відтінки.",
+        "audio": "At a young naturalists' conference, a speaker praised a campaign for describing a wetland as 'a nursery for tomorrow's wildlife'. Another participant admired the phrase but asked whether it made the wetland seem valuable chiefly because of what it would produce later. The speaker accepted that possibility, yet resisted the conclusion that every metaphor should be abandoned. Scientific descriptions also select what to foreground, she noted; listing species can leave a reader no wiser about why the place matters. Their eventual agreement was modest. The campaign would keep the image, explain the particular processes it referred to, and add perspectives the image left out, including the wetland's present importance to local residents. Language could guide attention without claiming to contain the whole place. The participant called this an improvement, while warning that adding a paragraph was easier than changing the habits of thought that made one attractive phrase feel sufficient.",
+        "answer": "Revising the text may be easier than changing the assumptions behind its original framing.",
+        "choices": [
+          "Retaining the metaphor prevents the additional perspectives from influencing readers' understanding.",
+          "Adding perspectives may make the campaign too diffuse to communicate its central ecological claim.",
+          "Revising the text may be easier than changing the assumptions behind its original framing."
+        ],
+        "hint": "Distinguish the specific improvement from the deeper habit the participant still questions."
+      },
+      {
+        "id": "c2-animals-language",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Choose the right wording",
+        "prompt": "Which reformulation most precisely preserves the student's position on storytelling?",
+        "uk": "Вибери найточніше переформулювання, не втрачаючи смислових відтінків.",
+        "audio": "",
+        "answer": "Narrative can invite interest, provided its appeal is not mistaken for an obligation wildlife must fulfil.",
+        "choices": [
+          "Narrative can invite interest, provided its appeal is not mistaken for an obligation wildlife must fulfil.",
+          "Narrative earns its educational value chiefly by delivering the encounters that first attract visitors.",
+          "Narrative can introduce a place effectively, but its imagery should then give way entirely to factual description."
+        ],
+        "hint": "Preserve the concession in favour of stories and the limit placed on their use."
+      },
+      {
+        "id": "c2-animals-writing",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Write your response",
+        "prompt": "Write a commentary for the trail's project review. Analyse how its original invitation shaped expectations, assess the revised wording, and explain how storytelling could encourage attention without promising a performance.",
+        "uk": "Напиши відповідь англійською мовою обсягом 120–180 слів. Виконай усі частини завдання й перевір відповідь за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Preserve the distinctions that matter. Make each qualification precise and ensure your recommendation follows from your analysis.",
+        "minWords": 120,
+        "maxWords": 180,
+        "rubric": [
+          "Analyse rhetorical framing and preserve the distinction between appeal and obligation.",
+          "Evaluate the revised wording with a developed, qualified judgement.",
+          "Use cohesive, precise prose and a register appropriate to reflective commentary."
+        ],
+        "passage": "For the school nature trail, the publicity team chose a fox as its unofficial host. On posters, a cheerful drawing welcomed visitors to 'my woodland home'; online, a series of photographs promised an encounter with the real animal. The fox, having contributed nothing to these arrangements, ceased appearing near the trail shortly before opening day. Volunteers worried that visitors would feel cheated.\n\nOne suggested moving the camera to find the fox's new route. Another proposed replacing the photographs with an account of the signs it left behind. The discussion might have remained a practical matter had a student not asked when an invitation to notice wildlife had become a promise that wildlife would perform.\n\nThe publicity team defended the campaign: a recognisable character had persuaded families to explore a place they previously ignored. This was a reasonable point, the student conceded. Stories could open a door. Her objection was to quietly treating the story's convenience as a requirement the animal should meet. A fox made approachable on paper was still entitled, in the ordinary rather than legal sense, to remain elusive in the woods.\n\nThe revised trail kept the illustrated host but removed the promise of a sighting. At its entrance stood a new notice: 'Our guide may be elsewhere today. The woodland is still here.' Some visitors found this charming; a few asked where to get a better photograph. In the project review, the student resisted calling the missing fox a failure. It had exposed a weakness in the invitation, she wrote, and perhaps improved the kind of attention the trail was asking for."
+      }
+    ]
+  },
+  {
+    "id": "c2-food",
+    "level": "C2",
+    "topic": "food",
+    "title": "The Trouble with a Perfect Score",
+    "objective": "CEFR-inspired sample lesson: interpret irony, weigh competing definitions of success, and produce a precise synthesis.",
+    "words": [
+      "proxy",
+      "perverse incentive",
+      "attribution",
+      "residual",
+      "proportionate"
+    ],
+    "passage": "The canteen's campaign began with a slogan no one wished to oppose: 'Every scrap counts.' For a month, pupils weighed the food returned on their trays, and a graph by the entrance showed the total falling. The campaign team announced that the school was approaching its goal of zero waste. Its neat downward line became the preferred illustration for every presentation.\n\nYet the graph had acquired responsibilities it was not designed to carry. The kitchen had reduced portion sizes after several pupils requested lighter lunches, while a new fruit stall outside school had changed how hungry some pupils were on arrival. Neither development made the figures false. They did, however, complicate the claim that the campaign alone had transformed everyone's habits.\n\nWhen a pupil suggested adding these details to the display, an organiser worried that qualifications would drain the message of energy. 'We finally have a story people understand,' she said. The pupil replied that a story need not become less useful merely because it became less tidy. He also questioned whether zero was the right ambition for every tray: trying an unfamiliar vegetable might produce a little waste on the way to a broader diet.\n\nThe final display kept the graph but placed it beside an explanation of what it could and could not show. The slogan survived, now followed by 'and so do the reasons'. In the campaign review, the organiser called this a compromise. The pupil preferred to call it a more demanding version of success: a school able to reduce waste without rewarding the avoidance of lunch.",
+    "listeningPassage": "Our school shop tried giving reusable lunch boxes a score based on how many disposable wrappers they appeared to replace. One pupil pointed out that she already carried lunch in an old container, so buying the new box would improve her score without changing her habits. Another had lost a container and needed a replacement, which the scoring system treated as less impressive because he had used reusables before. The organisers realised they were rewarding a visible purchase more readily than an existing practice. They revised the activity so pupils could describe what they already did and identify a useful next step. A teacher welcomed the change but cautioned against simply replacing a purchase competition with a competition in persuasive self-description. The revised activity therefore asked for a modest, observable example over several days, while making clear that the aim was reflection rather than a ranking of whose family was most virtuous.",
+    "activities": [
+      {
+        "id": "c2-food-reading",
+        "kind": "check",
+        "skill": "reading",
+        "item": "Read and infer",
+        "prompt": "What does the pupil's final phrase, 'without rewarding the avoidance of lunch', primarily criticise?",
+        "uk": "Проаналізуй підтекст і риторичний прийом. Вибери найточніше тлумачення.",
+        "audio": "",
+        "answer": "The possibility that a narrow measure of success could encourage behaviour contrary to the campaign's broader purpose.",
+        "choices": [
+          "The possibility that a narrow measure of success could encourage behaviour contrary to the campaign's broader purpose.",
+          "The decision to adjust portions before establishing precisely how much each pupil usually eats.",
+          "The emphasis on a school-wide result when different classes may have contributed unequally to the reduction."
+        ],
+        "hint": "Link the final phrase to portion sizes, unfamiliar food, and the ambition of zero on every tray.",
+        "passage": "The canteen's campaign began with a slogan no one wished to oppose: 'Every scrap counts.' For a month, pupils weighed the food returned on their trays, and a graph by the entrance showed the total falling. The campaign team announced that the school was approaching its goal of zero waste. Its neat downward line became the preferred illustration for every presentation.\n\nYet the graph had acquired responsibilities it was not designed to carry. The kitchen had reduced portion sizes after several pupils requested lighter lunches, while a new fruit stall outside school had changed how hungry some pupils were on arrival. Neither development made the figures false. They did, however, complicate the claim that the campaign alone had transformed everyone's habits.\n\nWhen a pupil suggested adding these details to the display, an organiser worried that qualifications would drain the message of energy. 'We finally have a story people understand,' she said. The pupil replied that a story need not become less useful merely because it became less tidy. He also questioned whether zero was the right ambition for every tray: trying an unfamiliar vegetable might produce a little waste on the way to a broader diet.\n\nThe final display kept the graph but placed it beside an explanation of what it could and could not show. The slogan survived, now followed by 'and so do the reasons'. In the campaign review, the organiser called this a compromise. The pupil preferred to call it a more demanding version of success: a school able to reduce waste without rewarding the avoidance of lunch."
+      },
+      {
+        "id": "c2-food-listening",
+        "kind": "listen",
+        "skill": "listening",
+        "item": "Listen for meaning",
+        "prompt": "What connects the teacher's caution to the original problem with the scoring system?",
+        "uk": "Прослухай запис і вибери тлумачення, яке зберігає всі важливі смислові відтінки.",
+        "audio": "Our school shop tried giving reusable lunch boxes a score based on how many disposable wrappers they appeared to replace. One pupil pointed out that she already carried lunch in an old container, so buying the new box would improve her score without changing her habits. Another had lost a container and needed a replacement, which the scoring system treated as less impressive because he had used reusables before. The organisers realised they were rewarding a visible purchase more readily than an existing practice. They revised the activity so pupils could describe what they already did and identify a useful next step. A teacher welcomed the change but cautioned against simply replacing a purchase competition with a competition in persuasive self-description. The revised activity therefore asked for a modest, observable example over several days, while making clear that the aim was reflection rather than a ranking of whose family was most virtuous.",
+        "answer": "Both reveal how an easy-to-display sign of success may displace the practice the activity intends to encourage.",
+        "choices": [
+          "Both identify family resources as the central factor the original activity failed to measure.",
+          "Both reveal how an easy-to-display sign of success may displace the practice the activity intends to encourage.",
+          "Both suggest that individual accounts become reliable only when converted into a shared numerical score."
+        ],
+        "hint": "Compare rewarding a visible purchase with rewarding an impressive description."
+      },
+      {
+        "id": "c2-food-language",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Choose the right wording",
+        "prompt": "Which revision most accurately qualifies 'The campaign caused food waste to fall' without denying the observed reduction?",
+        "uk": "Вибери найточніше переформулювання, не втрачаючи смислових відтінків.",
+        "audio": "",
+        "answer": "Recorded tray waste fell during the campaign, although the figures alone cannot isolate the campaign's contribution.",
+        "choices": [
+          "The reduction in recorded tray waste demonstrates the campaign's effect, although some pupils changed less than others.",
+          "Changing portions and hunger levels account for the fall in waste, leaving the campaign's influence negligible.",
+          "Recorded tray waste fell during the campaign, although the figures alone cannot isolate the campaign's contribution."
+        ],
+        "hint": "Preserve the observation while narrowing the causal claim."
+      },
+      {
+        "id": "c2-food-writing",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Write your response",
+        "prompt": "Write a critical but constructive review of the canteen campaign. Evaluate the graph as evidence, explain the rhetorical effect of the revised slogan, and propose a definition of success that protects both waste reduction and a positive relationship with lunch.",
+        "uk": "Напиши відповідь англійською мовою обсягом 120–180 слів. Виконай усі частини завдання й перевір відповідь за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Preserve the distinctions that matter. Make each qualification precise and ensure your recommendation follows from your analysis.",
+        "minWords": 120,
+        "maxWords": 180,
+        "rubric": [
+          "Distinguish observation, causal attribution, and the limits of the chosen measure.",
+          "Analyse the revised slogan and synthesise the campaign's competing aims.",
+          "Develop a proportionate recommendation in controlled, precise, cohesive prose."
+        ],
+        "passage": "The canteen's campaign began with a slogan no one wished to oppose: 'Every scrap counts.' For a month, pupils weighed the food returned on their trays, and a graph by the entrance showed the total falling. The campaign team announced that the school was approaching its goal of zero waste. Its neat downward line became the preferred illustration for every presentation.\n\nYet the graph had acquired responsibilities it was not designed to carry. The kitchen had reduced portion sizes after several pupils requested lighter lunches, while a new fruit stall outside school had changed how hungry some pupils were on arrival. Neither development made the figures false. They did, however, complicate the claim that the campaign alone had transformed everyone's habits.\n\nWhen a pupil suggested adding these details to the display, an organiser worried that qualifications would drain the message of energy. 'We finally have a story people understand,' she said. The pupil replied that a story need not become less useful merely because it became less tidy. He also questioned whether zero was the right ambition for every tray: trying an unfamiliar vegetable might produce a little waste on the way to a broader diet.\n\nThe final display kept the graph but placed it beside an explanation of what it could and could not show. The slogan survived, now followed by 'and so do the reasons'. In the campaign review, the organiser called this a compromise. The pupil preferred to call it a more demanding version of success: a school able to reduce waste without rewarding the avoidance of lunch."
+      }
+    ]
+  },
+  {
+    "id": "c2-school",
+    "level": "C2",
+    "topic": "school",
+    "title": "Who Gets to Sound Like a Leader?",
+    "objective": "CEFR-inspired sample lesson: recognise implicit assumptions in evaluative language and reformulate a balanced position precisely.",
+    "words": [
+      "assurance",
+      "criterion",
+      "equate",
+      "deliberation",
+      "implicit bias"
+    ],
+    "passage": "When the student council introduced a leadership award, its guidance praised pupils who 'speak with confidence and bring others with them'. The phrase sounded generous enough to pass without discussion. At the first selection meeting, however, the nominations clustered around students who spoke readily in assemblies. A pupil who had quietly reorganised the lunchtime library rota was praised for being helpful, then moved to a different category.\n\nThe librarian asked whether this distinction described the pupils' contributions or merely the forms in which those contributions became visible. The rota had survived several disagreements because its organiser asked precise questions, checked who would be affected and changed her proposal. She rarely delivered a polished speech. The panel chair agreed that these were valuable qualities, but worried that broadening the criteria would make almost any cooperative act count as leadership.\n\nIn an editorial, the student paper resisted both an easy reversal and the original formula. Confident speaking was not a fault, it argued, and quietness was no certificate of wisdom. The problem was allowing one recognisable style to stand in for the judgement the award claimed to honour. The editorial proposed asking what a pupil had enabled others to do, and how they had handled disagreement, before considering how persuasive the account sounded.\n\nThe panel adopted the questions but retained confidence in its guidance, now defined partly as a willingness to revise a view. Some students called this a contradiction. The librarian called it a useful inconvenience: the word could no longer do the panel's thinking for it.",
+    "listeningPassage": "In a workshop on peer feedback, students compared two comments on a presentation. One said, 'You seemed completely certain'; the other said, 'You made it clear which conclusions the evidence supported.' Several students preferred the first because it sounded more enthusiastic. The tutor asked them to imagine a presentation containing an unanswered question. Under the first comment, acknowledging the gap might look like a weakness; under the second, it could be part of a strong performance. She was not suggesting that hesitation automatically signalled thoughtfulness, or that fluent delivery concealed shallow ideas. Rather, feedback should identify the achievement it intended to praise. The group rewrote its checklist to include clear delivery, appropriate confidence and explicit limits. One student observed that this was less convenient than awarding a single mark for 'presence'. The tutor agreed: convenience was useful until it began deciding what the class was able to notice.",
+    "activities": [
+      {
+        "id": "c2-school-reading",
+        "kind": "check",
+        "skill": "reading",
+        "item": "Read and infer",
+        "prompt": "What does the librarian mean by calling the revised use of 'confidence' a 'useful inconvenience'?",
+        "uk": "Проаналізуй підтекст і риторичний прийом. Вибери найточніше тлумачення.",
+        "audio": "",
+        "answer": "The revised definition forces the panel to examine judgement instead of relying on a familiar verbal shortcut.",
+        "choices": [
+          "The revised definition makes assessment fairer by giving revision of a view priority over every other contribution.",
+          "The ambiguity of the revised definition allows the panel to reach different decisions without having to justify them.",
+          "The revised definition forces the panel to examine judgement instead of relying on a familiar verbal shortcut."
+        ],
+        "hint": "Connect the last sentence with the earlier concern that one visible style was standing in for judgement.",
+        "passage": "When the student council introduced a leadership award, its guidance praised pupils who 'speak with confidence and bring others with them'. The phrase sounded generous enough to pass without discussion. At the first selection meeting, however, the nominations clustered around students who spoke readily in assemblies. A pupil who had quietly reorganised the lunchtime library rota was praised for being helpful, then moved to a different category.\n\nThe librarian asked whether this distinction described the pupils' contributions or merely the forms in which those contributions became visible. The rota had survived several disagreements because its organiser asked precise questions, checked who would be affected and changed her proposal. She rarely delivered a polished speech. The panel chair agreed that these were valuable qualities, but worried that broadening the criteria would make almost any cooperative act count as leadership.\n\nIn an editorial, the student paper resisted both an easy reversal and the original formula. Confident speaking was not a fault, it argued, and quietness was no certificate of wisdom. The problem was allowing one recognisable style to stand in for the judgement the award claimed to honour. The editorial proposed asking what a pupil had enabled others to do, and how they had handled disagreement, before considering how persuasive the account sounded.\n\nThe panel adopted the questions but retained confidence in its guidance, now defined partly as a willingness to revise a view. Some students called this a contradiction. The librarian called it a useful inconvenience: the word could no longer do the panel's thinking for it."
+      },
+      {
+        "id": "c2-school-listening",
+        "kind": "listen",
+        "skill": "listening",
+        "item": "Listen for meaning",
+        "prompt": "Which interpretation best captures the tutor's qualified position?",
+        "uk": "Прослухай запис і вибери тлумачення, яке зберігає всі важливі смислові відтінки.",
+        "audio": "In a workshop on peer feedback, students compared two comments on a presentation. One said, 'You seemed completely certain'; the other said, 'You made it clear which conclusions the evidence supported.' Several students preferred the first because it sounded more enthusiastic. The tutor asked them to imagine a presentation containing an unanswered question. Under the first comment, acknowledging the gap might look like a weakness; under the second, it could be part of a strong performance. She was not suggesting that hesitation automatically signalled thoughtfulness, or that fluent delivery concealed shallow ideas. Rather, feedback should identify the achievement it intended to praise. The group rewrote its checklist to include clear delivery, appropriate confidence and explicit limits. One student observed that this was less convenient than awarding a single mark for 'presence'. The tutor agreed: convenience was useful until it began deciding what the class was able to notice.",
+        "answer": "Good feedback should recognise clarity while distinguishing justified assurance from unqualified certainty.",
+        "choices": [
+          "Good feedback should recognise clarity while distinguishing justified assurance from unqualified certainty.",
+          "Feedback should place acknowledged uncertainty above fluent delivery because it provides stronger evidence of understanding.",
+          "A mark for presence remains a useful overall judgement once students are reminded to mention unanswered questions."
+        ],
+        "hint": "The tutor rejects both automatic praise for certainty and automatic praise for hesitation."
+      },
+      {
+        "id": "c2-school-language",
+        "kind": "check",
+        "skill": "sentences",
+        "item": "Choose the right wording",
+        "prompt": "Which sentence most precisely reformulates the editorial's argument?",
+        "uk": "Вибери найточніше переформулювання, не втрачаючи смислових відтінків.",
+        "audio": "",
+        "answer": "Fluent confidence may be valuable, but it should not substitute for evidence of judgement and enabling others.",
+        "choices": [
+          "Because quiet contributions are easily overlooked, the award should give them greater weight than visible acts of persuasion.",
+          "Fluent confidence may be valuable, but it should not substitute for evidence of judgement and enabling others.",
+          "Leadership should be defined primarily by the willingness to revise a view, with other forms of contribution treated as supporting evidence."
+        ],
+        "hint": "Preserve the editorial's refusal to idealise quietness or treat fluent speech as sufficient evidence."
+      },
+      {
+        "id": "c2-school-writing",
+        "kind": "write",
+        "skill": "writing",
+        "item": "Write your response",
+        "prompt": "Write a short policy note for the award panel. Explain the assumption in its original wording, evaluate the revised meaning of confidence, and propose criteria that recognise varied forms of leadership without making the award meaningless.",
+        "uk": "Напиши відповідь англійською мовою обсягом 120–180 слів. Виконай усі частини завдання й перевір відповідь за трьома критеріями.",
+        "audio": "",
+        "answer": "",
+        "choices": [],
+        "hint": "Preserve the distinctions that matter. Make each qualification precise and ensure your recommendation follows from your analysis.",
+        "minWords": 120,
+        "maxWords": 180,
+        "rubric": [
+          "Analyse the implicit assumption without reversing it into a stereotype about quiet or confident pupils.",
+          "Offer a nuanced evaluation and discriminating, practical criteria.",
+          "Use precise reformulation, coherent synthesis, and an appropriately concise formal register."
+        ],
+        "passage": "When the student council introduced a leadership award, its guidance praised pupils who 'speak with confidence and bring others with them'. The phrase sounded generous enough to pass without discussion. At the first selection meeting, however, the nominations clustered around students who spoke readily in assemblies. A pupil who had quietly reorganised the lunchtime library rota was praised for being helpful, then moved to a different category.\n\nThe librarian asked whether this distinction described the pupils' contributions or merely the forms in which those contributions became visible. The rota had survived several disagreements because its organiser asked precise questions, checked who would be affected and changed her proposal. She rarely delivered a polished speech. The panel chair agreed that these were valuable qualities, but worried that broadening the criteria would make almost any cooperative act count as leadership.\n\nIn an editorial, the student paper resisted both an easy reversal and the original formula. Confident speaking was not a fault, it argued, and quietness was no certificate of wisdom. The problem was allowing one recognisable style to stand in for the judgement the award claimed to honour. The editorial proposed asking what a pupil had enabled others to do, and how they had handled disagreement, before considering how persuasive the account sounded.\n\nThe panel adopted the questions but retained confidence in its guidance, now defined partly as a willingness to revise a view. Some students called this a contradiction. The librarian called it a useful inconvenience: the word could no longer do the panel's thinking for it."
+      }
+    ]
+  }
+]
